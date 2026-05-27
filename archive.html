@@ -1,0 +1,750 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Archive — Fragments</title>
+
+  <meta name="description" content="A growing archive of operational, organizational and systems thinking fragments by Francisco Cobos.">
+
+  <style>
+
+    *{
+      margin:0;
+      padding:0;
+      box-sizing:border-box;
+    }
+
+    html{
+      scroll-behavior:smooth;
+    }
+
+    body{
+      background:#0b0b0b;
+      color:#f5f5f5;
+      font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+      line-height:1.7;
+      -webkit-font-smoothing:antialiased;
+    }
+
+    a{
+      text-decoration:none;
+      color:inherit;
+    }
+
+    nav{
+      position:fixed;
+      top:0;
+      width:100%;
+      backdrop-filter:blur(10px);
+      background:rgba(11,11,11,0.72);
+      border-bottom:1px solid rgba(255,255,255,0.06);
+      z-index:100;
+    }
+
+    .nav-container{
+      width:90%;
+      max-width:1100px;
+      margin:auto;
+      display:flex;
+      justify-content:space-between;
+      align-items:center;
+      padding:18px 0;
+    }
+
+    .logo{
+      font-weight:700;
+    }
+
+    .menu{
+      display:flex;
+      gap:24px;
+      color:#9a9a9a;
+      font-size:0.92rem;
+    }
+
+    .menu a:hover{
+      color:white;
+    }
+
+    main{
+      width:90%;
+      max-width:820px;
+      margin:auto;
+      padding-top:140px;
+      padding-bottom:120px;
+    }
+
+    h1{
+      font-size:4rem;
+      letter-spacing:-3px;
+      margin-bottom:20px;
+    }
+
+    .intro{
+      color:#8f8f8f;
+      margin-bottom:18px;
+      max-width:720px;
+    }
+
+    .updated{
+      color:#666;
+      font-size:0.88rem;
+      margin-bottom:60px;
+    }
+
+    .search{
+      width:100%;
+      padding:16px;
+      margin-bottom:60px;
+      border:none;
+      outline:none;
+      border-radius:14px;
+      background:#161616;
+      color:white;
+      font-size:1rem;
+    }
+
+    .fragments{
+      display:flex;
+      flex-direction:column;
+      gap:55px;
+    }
+
+    .fragment{
+      border-left:1px solid rgba(255,255,255,0.08);
+      padding-left:28px;
+    }
+
+    .fragment-text{
+      font-size:1.7rem;
+      line-height:1.45;
+      letter-spacing:-1px;
+      margin-bottom:16px;
+    }
+
+    .fragment-meta{
+      color:#6f6f6f;
+      font-size:0.92rem;
+    }
+
+    footer{
+      border-top:1px solid rgba(255,255,255,0.06);
+      margin-top:120px;
+      padding-top:40px;
+      color:#666;
+      font-size:0.92rem;
+      display:flex;
+      justify-content:space-between;
+      flex-wrap:wrap;
+      gap:20px;
+    }
+
+    .footer-links{
+      display:flex;
+      gap:18px;
+      flex-wrap:wrap;
+    }
+
+    .footer-links a:hover{
+      color:white;
+    }
+
+    @media(max-width:768px){
+
+      h1{
+        font-size:2.8rem;
+      }
+
+      .fragment-text{
+        font-size:1.3rem;
+      }
+
+      .menu{
+        gap:14px;
+        font-size:0.84rem;
+      }
+
+      .fragments{
+        gap:42px;
+      }
+
+    }
+
+  </style>
+
+</head>
+
+<body>
+
+<nav>
+
+  <div class="nav-container">
+
+    <div class="logo">
+      Fragments
+    </div>
+
+    <div class="menu">
+      <a href="index.html">Home</a>
+      <a href="archive.html">Archive</a>
+      <a href="legal.html">Legal</a>
+    </div>
+
+  </div>
+
+</nav>
+
+<main>
+
+  <h1>
+    Archive
+  </h1>
+
+  <p class="intro">
+    A growing collection of operational, organizational and systems thinking fragments accumulated over time.
+  </p>
+
+  <div class="updated">
+    Last updated · May 2026
+  </div>
+
+  <input
+    class="search"
+    type="text"
+    id="searchInput"
+    placeholder="Search fragments..."
+  >
+
+  <section class="fragments" id="latest">
+
+    <section class="fragments" id="latest">
+
+  <article class="fragment">
+    <div class="fragment-text">
+      Operational workarounds are often product failures in disguise.
+    </div>
+    <div class="fragment-meta">
+      2026 · operations
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      Organizations often confuse movement with progress.
+    </div>
+    <div class="fragment-meta">
+      2024 · organizations
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      Industry no longer creates. It optimizes costs.
+    </div>
+    <div class="fragment-meta">
+      2024 · industry
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      Complexity grows naturally. Simplicity requires intention.
+    </div>
+    <div class="fragment-meta">
+      2025 · complexity
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      Clarity scales better than control.
+    </div>
+    <div class="fragment-meta">
+      2025 · leadership
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      Most organizations spend more time protecting narratives than solving problems.
+    </div>
+    <div class="fragment-meta">
+      2024 · organizations
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      A process that only works with exceptional people is usually a bad process.
+    </div>
+    <div class="fragment-meta">
+      2025 · operations
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      Optimization without direction is just efficient confusion.
+    </div>
+    <div class="fragment-meta">
+      2025 · strategy
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      Many companies scale faster than their operational maturity.
+    </div>
+    <div class="fragment-meta">
+      2024 · operations
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      The biggest source of friction inside organizations is usually ambiguity.
+    </div>
+    <div class="fragment-meta">
+      2025 · organizations
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      Meetings often become a substitute for decision-making.
+    </div>
+    <div class="fragment-meta">
+      2023 · leadership
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      Operational debt accumulates silently until it suddenly becomes strategy.
+    </div>
+    <div class="fragment-meta">
+      2025 · systems
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      The more layers an organization creates, the harder reality travels upward.
+    </div>
+    <div class="fragment-meta">
+      2024 · organizations
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      People rarely resist change itself. They resist uncertainty without trust.
+    </div>
+    <div class="fragment-meta">
+      2022 · leadership
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      Many digital transformations are still analog thinking hidden behind modern interfaces.
+    </div>
+    <div class="fragment-meta">
+      2025 · transformation
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      Technology amplifies both intelligence and dysfunction.
+    </div>
+    <div class="fragment-meta">
+      2024 · technology
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      The illusion of control grows proportionally with the number of dashboards.
+    </div>
+    <div class="fragment-meta">
+      2025 · systems
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      A KPI can improve while the experience collapses.
+    </div>
+    <div class="fragment-meta">
+      2024 · systems
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      Execution reveals truths strategy decks tend to hide.
+    </div>
+    <div class="fragment-meta">
+      2025 · strategy
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      The market eventually exposes operational theater.
+    </div>
+    <div class="fragment-meta">
+      2024 · business
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      Scalability without clarity usually creates expensive chaos.
+    </div>
+    <div class="fragment-meta">
+      2025 · systems
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      Short-term optimization often destroys long-term resilience.
+    </div>
+    <div class="fragment-meta">
+      2024 · strategy
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      Organizations create silos and later spend fortunes trying to reconnect them.
+    </div>
+    <div class="fragment-meta">
+      2025 · organizations
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      The more a company talks about innovation, the less innovation often exists.
+    </div>
+    <div class="fragment-meta">
+      2023 · innovation
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      Real leadership reduces unnecessary complexity.
+    </div>
+    <div class="fragment-meta">
+      2025 · leadership
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      Some systems survive not because they work well, but because people compensate endlessly for their flaws.
+    </div>
+    <div class="fragment-meta">
+      2024 · systems
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      When everything becomes urgent, nothing remains important.
+    </div>
+    <div class="fragment-meta">
+      2023 · priorities
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      Many organizations reward visibility more than contribution.
+    </div>
+    <div class="fragment-meta">
+      2024 · organizations
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      Coordination problems are often disguised as performance problems.
+    </div>
+    <div class="fragment-meta">
+      2025 · operations
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      Operational excellence is usually invisible when it works correctly.
+    </div>
+    <div class="fragment-meta">
+      2025 · operations
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      Good systems reduce dependence on individual heroics.
+    </div>
+    <div class="fragment-meta">
+      2025 · systems
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      A culture of permanent urgency eventually becomes operational noise.
+    </div>
+    <div class="fragment-meta">
+      2024 · culture
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      Most corporate alignment problems begin with conflicting incentives.
+    </div>
+    <div class="fragment-meta">
+      2025 · incentives
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      Not all growth is healthy growth.
+    </div>
+    <div class="fragment-meta">
+      2023 · growth
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      The faster an organization grows, the more dangerous unresolved ambiguity becomes.
+    </div>
+    <div class="fragment-meta">
+      2025 · organizations
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      Some products are held together more by operations than by engineering.
+    </div>
+    <div class="fragment-meta">
+      2024 · product
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      Organizations tend to measure what is easy instead of what matters.
+    </div>
+    <div class="fragment-meta">
+      2025 · metrics
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      The absence of feedback creates fictional realities.
+    </div>
+    <div class="fragment-meta">
+      2024 · communication
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      Process should support thinking, not replace it.
+    </div>
+    <div class="fragment-meta">
+      2025 · thinking
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      A company can become data-driven while understanding less and less.
+    </div>
+    <div class="fragment-meta">
+      2025 · data
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      The more polished the narrative, the more important it becomes to inspect reality.
+    </div>
+    <div class="fragment-meta">
+      2024 · organizations
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      Many operational problems begin long before operations notice them.
+    </div>
+    <div class="fragment-meta">
+      2025 · operations
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      Real experience emerges where systems, people and constraints collide.
+    </div>
+    <div class="fragment-meta">
+      2023 · systems
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      Organizations often underestimate the cognitive cost of bad processes.
+    </div>
+    <div class="fragment-meta">
+      2025 · processes
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      A product roadmap is also a reflection of organizational priorities and fears.
+    </div>
+    <div class="fragment-meta">
+      2024 · product
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      Operational stability is built slowly and destroyed surprisingly fast.
+    </div>
+    <div class="fragment-meta">
+      2025 · operations
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      The best operational systems feel almost invisible.
+    </div>
+    <div class="fragment-meta">
+      2025 · systems
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      Incentives shape behavior faster than speeches.
+    </div>
+    <div class="fragment-meta">
+      2024 · incentives
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      A sophisticated process can still produce dysfunctional outcomes.
+    </div>
+    <div class="fragment-meta">
+      2025 · systems
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      Many companies mistake digitalization for transformation.
+    </div>
+    <div class="fragment-meta">
+      2024 · transformation
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      Simplicity is often interpreted as lack of sophistication.
+    </div>
+    <div class="fragment-meta">
+      2025 · simplicity
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      People trust clarity more than enthusiasm.
+    </div>
+    <div class="fragment-meta">
+      2024 · communication
+    </div>
+  </article>
+
+  <article class="fragment">
+    <div class="fragment-text">
+      The hardest part of scaling is preserving coherence.
+    </div>
+    <div class="fragment-meta">
+      2025 · scaling
+    </div>
+  </article>
+
+</section>
+
+  </section>
+
+  <footer>
+
+    <div>
+      © 2026 Francisco Cobos · fragments.fcobos.com
+    </div>
+
+    <div class="footer-links">
+      <a href="index.html">Home</a>
+      <a href="legal.html">Legal</a>
+      <a href="https://fcobos.com" target="_blank">fcobos.com</a>
+      <a href="https://fcobos.medium.com" target="_blank">Medium</a>
+    </div>
+
+  </footer>
+
+</main>
+
+<script>
+
+const searchInput = document.getElementById('searchInput');
+
+searchInput.addEventListener('keyup', function(){
+
+  const value = this.value.toLowerCase();
+
+  const fragments = document.querySelectorAll('.fragment');
+
+  fragments.forEach(fragment => {
+
+    const text = fragment.innerText.toLowerCase();
+
+    fragment.style.display = text.includes(value)
+      ? 'block'
+      : 'none';
+
+  });
+
+});
+
+</script>
+
+</body>
+
+</html>
