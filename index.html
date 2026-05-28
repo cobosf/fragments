@@ -110,6 +110,7 @@
       color:black;
       font-weight:600;
       transition:0.3s;
+      cursor:pointer;
     }
 
     .button:hover{
@@ -233,7 +234,7 @@
     </div>
 
     <div class="menu">
-      <a href="#">Home</a>
+      <a href="index.html">Home</a>
       <a href="archive.html">Archive</a>
       <a href="#about">About</a>
     </div>
@@ -251,7 +252,7 @@
     </h1>
 
     <p>
-      A curated archive of thoughts, observations and condensed reflections gathered across years of systems, operations, organizations and lived experience.
+      A curated archive of operational, organizational and systems thinking fragments by Francisco Cobos.
     </p>
 
     <div class="buttons">
@@ -260,9 +261,9 @@
         Explore Archive
       </a>
 
-      <a class="button button-secondary" href="#" id="random-button">
+      <button class="button button-secondary" id="random-button">
         Random Fragment
-      </a>
+      </button>
 
     </div>
 
@@ -293,10 +294,6 @@
       Most emerged while working across operations, logistics, hospitality, technology and organizational environments where systems, ambiguity and execution constantly intersect.
     </p>
 
-    <p>
-      Others simply appeared somewhere along the way.
-    </p>
-
   </section>
 
   <footer>
@@ -318,17 +315,28 @@
 
 <script>
 
-fetch('fragments.json')
-  .then(response => response.json())
-  .then(data => {
+async function loadFragments() {
+
+  try {
+
+    const response = await fetch('./fragments.json');
+
+    if (!response.ok) {
+      throw new Error('Cannot load fragments.json');
+    }
+
+    const data = await response.json();
 
     const container = document.getElementById('fragments-container');
+
+    container.innerHTML = '';
 
     const shuffled = [...data].sort(() => 0.5 - Math.random());
 
     shuffled.slice(0, 8).forEach(fragment => {
 
       const article = document.createElement('article');
+
       article.className = 'fragment';
 
       article.innerHTML = `
@@ -341,9 +349,7 @@ fetch('fragments.json')
 
     });
 
-    document.getElementById('random-button').addEventListener('click', function(e){
-
-      e.preventDefault();
+    document.getElementById('random-button').addEventListener('click', function(){
 
       const random = data[Math.floor(Math.random() * data.length)];
 
@@ -362,7 +368,23 @@ fetch('fragments.json')
 
     });
 
-  });
+  } catch(error) {
+
+    console.error(error);
+
+    document.getElementById('fragments-container').innerHTML = `
+      <article class="fragment">
+        <div class="fragment-text">
+          Error loading fragments.json
+        </div>
+      </article>
+    `;
+
+  }
+
+}
+
+loadFragments();
 
 </script>
 
