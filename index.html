@@ -313,7 +313,7 @@
       <a href="https://fcobos.medium.com" target="_blank">Medium</a>
     </div>
 
-  </footer>
+  /footer>
 
 </main>
 
@@ -327,7 +327,7 @@ fetch('fragments.json')
 
     const shuffled = [...data].sort(() => 0.5 - Math.random());
 
-    shuffled.slice(0, 12).forEach(fragment => {
+    shuffled.slice(0, 8).forEach(fragment => {
 
       const article = document.createElement('article');
       article.className = 'fragment';
@@ -339,27 +339,6 @@ fetch('fragments.json')
       `;
 
       container.appendChild(article);
-
-    });
-
-    document.getElementById('random-button').addEventListener('click', function(e){
-
-      e.preventDefault();
-
-      const random = data[Math.floor(Math.random() * data.length)];
-
-      container.innerHTML = `
-        <article class="fragment">
-          <div class="fragment-text">
-            ${random.text}
-          </div>
-        </article>
-      `;
-
-      window.scrollTo({
-        top: document.querySelector('.section').offsetTop - 100,
-        behavior: 'smooth'
-      });
 
     });
 
