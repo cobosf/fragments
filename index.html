@@ -157,11 +157,6 @@
       margin-bottom:16px;
     }
 
-    .fragment-meta{
-      color:#6f6f6f;
-      font-size:0.92rem;
-    }
-
     .about{
       margin-top:140px;
       padding-top:80px;
@@ -266,7 +261,7 @@
         Explore Archive
       </a>
 
-      <a class="button button-secondary" href="archive.html">
+      <a class="button button-secondary" href="#" id="random-button">
         Random Fragment
       </a>
 
@@ -280,92 +275,7 @@
       Foundational Fragments
     </div>
 
-    <section class="fragments">
-
-      <article class="fragment">
-        <div class="fragment-text">
-          Operational workarounds are often product failures in disguise.
-        </div>
-        <div class="fragment-meta">
-          2026 · operations
-        </div>
-      </article>
-
-      <article class="fragment">
-        <div class="fragment-text">
-          Organizations often confuse movement with progress.
-        </div>
-        <div class="fragment-meta">
-          2024 · organizations
-        </div>
-      </article>
-
-      <article class="fragment">
-        <div class="fragment-text">
-          Industry no longer creates. It optimizes costs.
-        </div>
-        <div class="fragment-meta">
-          2024 · industry
-        </div>
-      </article>
-
-      <article class="fragment">
-        <div class="fragment-text">
-          Where transparency is absent, speculation becomes communication.
-        </div>
-        <div class="fragment-meta">
-          2021 · organizations
-        </div>
-      </article>
-
-      <article class="fragment">
-        <div class="fragment-text">
-          Systems rarely collapse because of technology alone. They collapse through friction, ambiguity and accumulated operational debt.
-        </div>
-        <div class="fragment-meta">
-          2025 · systems
-        </div>
-      </article>
-
-    </section>
-
-  </section>
-
-  <section class="section">
-
-    <div class="section-title">
-      Latest Additions
-    </div>
-
-    <section class="fragments">
-
-      <article class="fragment">
-        <div class="fragment-text">
-          Complexity grows naturally. Simplicity requires intention.
-        </div>
-        <div class="fragment-meta">
-          2025 · complexity
-        </div>
-      </article>
-
-      <article class="fragment">
-        <div class="fragment-text">
-          A KPI can improve while the experience collapses.
-        </div>
-        <div class="fragment-meta">
-          2024 · systems
-        </div>
-      </article>
-
-      <article class="fragment">
-        <div class="fragment-text">
-          Clarity scales better than control.
-        </div>
-        <div class="fragment-meta">
-          2025 · leadership
-        </div>
-      </article>
-
+    <section class="fragments" id="fragments-container">
     </section>
 
   </section>
@@ -406,6 +316,56 @@
   </footer>
 
 </main>
+
+<script>
+
+fetch('fragments.json')
+  .then(response => response.json())
+  .then(data => {
+
+    const container = document.getElementById('fragments-container');
+
+    const shuffled = [...data].sort(() => 0.5 - Math.random());
+
+    shuffled.slice(0, 12).forEach(fragment => {
+
+      const article = document.createElement('article');
+      article.className = 'fragment';
+
+      article.innerHTML = `
+        <div class="fragment-text">
+          ${fragment.text}
+        </div>
+      `;
+
+      container.appendChild(article);
+
+    });
+
+    document.getElementById('random-button').addEventListener('click', function(e){
+
+      e.preventDefault();
+
+      const random = data[Math.floor(Math.random() * data.length)];
+
+      container.innerHTML = `
+        <article class="fragment">
+          <div class="fragment-text">
+            ${random.text}
+          </div>
+        </article>
+      `;
+
+      window.scrollTo({
+        top: document.querySelector('.section').offsetTop - 100,
+        behavior: 'smooth'
+      });
+
+    });
+
+  });
+
+</script>
 
 </body>
 
