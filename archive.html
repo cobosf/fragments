@@ -1,3 +1,4 @@
+```html id="z7x4oc"
 <!DOCTYPE html>
 <html lang="en">
 
@@ -8,7 +9,7 @@
 
   <title>Archive — Fragments</title>
 
-  <meta name="description" content="A growing archive of operational, organizational and systems thinking fragments by Francisco Cobos.">
+  <meta name="description" content="Archive of fragments by Francisco Cobos.">
 
   <style>
 
@@ -72,55 +73,34 @@
 
     main{
       width:90%;
-      max-width:820px;
+      max-width:900px;
       margin:auto;
       padding-top:140px;
       padding-bottom:120px;
     }
 
-    h1{
+    .hero{
+      margin-bottom:100px;
+    }
+
+    .hero h1{
       font-size:4rem;
+      line-height:0.95;
       letter-spacing:-3px;
-      margin-bottom:20px;
+      margin-bottom:24px;
     }
 
-    .intro{
-      color:#8f8f8f;
-      margin-bottom:18px;
+    .hero p{
+      color:#9d9d9d;
       max-width:720px;
+      font-size:1.05rem;
     }
 
-    .updated{
-      color:#666;
-      font-size:0.88rem;
-      margin-bottom:60px;
+    .archive-grid{
+      display:flex;
+      flex-direction:column;
+      gap:42px;
     }
-
-.search{
-  width:100%;
-  padding:16px;
-  margin-bottom:60px;
-  border:none;
-  outline:none;
-  border-radius:14px;
-  background:#161616;
-  color:white;
-  font-size:1rem;
-}
-
-.topics{
-  color:#666;
-  font-size:0.9rem;
-  margin-top:-30px;
-  margin-bottom:80px;
-  line-height:1.8;
-}
-
-.fragments{
-  display:flex;
-  flex-direction:column;
-  gap:55px;
-}
 
     .fragment{
       border-left:1px solid rgba(255,255,255,0.08);
@@ -128,21 +108,22 @@
     }
 
     .fragment-text{
-      font-size:1.7rem;
-      line-height:1.45;
-      letter-spacing:-1px;
-      margin-bottom:16px;
+      font-size:1.45rem;
+      line-height:1.5;
+      letter-spacing:-0.5px;
+      margin-bottom:14px;
     }
 
     .fragment-meta{
       color:#6f6f6f;
-      font-size:0.92rem;
+      font-size:0.9rem;
+      text-transform:lowercase;
     }
 
     footer{
       border-top:1px solid rgba(255,255,255,0.06);
       margin-top:120px;
-      padding-top:40px;
+      padding:40px 0;
       color:#666;
       font-size:0.92rem;
       display:flex;
@@ -163,21 +144,17 @@
 
     @media(max-width:768px){
 
-      h1{
+      .hero h1{
         font-size:2.8rem;
       }
 
       .fragment-text{
-        font-size:1.3rem;
+        font-size:1.2rem;
       }
 
       .menu{
         gap:14px;
         font-size:0.84rem;
-      }
-
-      .fragments{
-        gap:42px;
       }
 
     }
@@ -208,512 +185,19 @@
 
 <main>
 
-  <h1>
-    Archive
-  </h1>
+  <section class="hero">
 
-  <p class="intro">
-    A growing collection of operational, organizational and systems thinking fragments accumulated over time.
-  </p>
+    <h1>
+      Archive
+    </h1>
 
-  <div class="updated">
-    Last updated · May 2026
-  </div>
+    <p>
+      A broader collection of operational, organizational and systems thinking fragments accumulated over time.
+    </p>
 
-  <input
-    class="search"
-    type="text"
-    id="searchInput"
-    placeholder="Search fragments..."
-  >
+  </section>
 
-  <div class="topics">
-  systems · operations · organizations · leadership · complexity · incentives · technology · strategy · communication
-</div>
-
-  <section class="fragments" id="latest">
-
-    <section class="fragments" id="latest">
-
-  <article class="fragment">
-    <div class="fragment-text">
-      Operational workarounds are often product failures in disguise.
-    </div>
-    <div class="fragment-meta">
-      2026 · operations
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      Organizations often confuse movement with progress.
-    </div>
-    <div class="fragment-meta">
-      2024 · organizations
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      Industry no longer creates. It optimizes costs.
-    </div>
-    <div class="fragment-meta">
-      2024 · industry
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      Complexity grows naturally. Simplicity requires intention.
-    </div>
-    <div class="fragment-meta">
-      2025 · complexity
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      Clarity scales better than control.
-    </div>
-    <div class="fragment-meta">
-      2025 · leadership
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      Most organizations spend more time protecting narratives than solving problems.
-    </div>
-    <div class="fragment-meta">
-      2024 · organizations
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      A process that only works with exceptional people is usually a bad process.
-    </div>
-    <div class="fragment-meta">
-      2025 · operations
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      Optimization without direction is just efficient confusion.
-    </div>
-    <div class="fragment-meta">
-      2025 · strategy
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      Many companies scale faster than their operational maturity.
-    </div>
-    <div class="fragment-meta">
-      2024 · operations
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      The biggest source of friction inside organizations is usually ambiguity.
-    </div>
-    <div class="fragment-meta">
-      2025 · organizations
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      Meetings often become a substitute for decision-making.
-    </div>
-    <div class="fragment-meta">
-      2023 · leadership
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      Operational debt accumulates silently until it suddenly becomes strategy.
-    </div>
-    <div class="fragment-meta">
-      2025 · systems
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      The more layers an organization creates, the harder reality travels upward.
-    </div>
-    <div class="fragment-meta">
-      2024 · organizations
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      People rarely resist change itself. They resist uncertainty without trust.
-    </div>
-    <div class="fragment-meta">
-      2022 · leadership
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      Many digital transformations are still analog thinking hidden behind modern interfaces.
-    </div>
-    <div class="fragment-meta">
-      2025 · transformation
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      Technology amplifies both intelligence and dysfunction.
-    </div>
-    <div class="fragment-meta">
-      2024 · technology
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      The illusion of control grows proportionally with the number of dashboards.
-    </div>
-    <div class="fragment-meta">
-      2025 · systems
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      A KPI can improve while the experience collapses.
-    </div>
-    <div class="fragment-meta">
-      2024 · systems
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      Execution reveals truths strategy decks tend to hide.
-    </div>
-    <div class="fragment-meta">
-      2025 · strategy
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      The market eventually exposes operational theater.
-    </div>
-    <div class="fragment-meta">
-      2024 · business
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      Scalability without clarity usually creates expensive chaos.
-    </div>
-    <div class="fragment-meta">
-      2025 · systems
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      Short-term optimization often destroys long-term resilience.
-    </div>
-    <div class="fragment-meta">
-      2024 · strategy
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      Organizations create silos and later spend fortunes trying to reconnect them.
-    </div>
-    <div class="fragment-meta">
-      2025 · organizations
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      The more a company talks about innovation, the less innovation often exists.
-    </div>
-    <div class="fragment-meta">
-      2023 · innovation
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      Real leadership reduces unnecessary complexity.
-    </div>
-    <div class="fragment-meta">
-      2025 · leadership
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      Some systems survive not because they work well, but because people compensate endlessly for their flaws.
-    </div>
-    <div class="fragment-meta">
-      2024 · systems
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      When everything becomes urgent, nothing remains important.
-    </div>
-    <div class="fragment-meta">
-      2023 · priorities
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      Many organizations reward visibility more than contribution.
-    </div>
-    <div class="fragment-meta">
-      2024 · organizations
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      Coordination problems are often disguised as performance problems.
-    </div>
-    <div class="fragment-meta">
-      2025 · operations
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      Operational excellence is usually invisible when it works correctly.
-    </div>
-    <div class="fragment-meta">
-      2025 · operations
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      Good systems reduce dependence on individual heroics.
-    </div>
-    <div class="fragment-meta">
-      2025 · systems
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      A culture of permanent urgency eventually becomes operational noise.
-    </div>
-    <div class="fragment-meta">
-      2024 · culture
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      Most corporate alignment problems begin with conflicting incentives.
-    </div>
-    <div class="fragment-meta">
-      2025 · incentives
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      Not all growth is healthy growth.
-    </div>
-    <div class="fragment-meta">
-      2023 · growth
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      The faster an organization grows, the more dangerous unresolved ambiguity becomes.
-    </div>
-    <div class="fragment-meta">
-      2025 · organizations
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      Some products are held together more by operations than by engineering.
-    </div>
-    <div class="fragment-meta">
-      2024 · product
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      Organizations tend to measure what is easy instead of what matters.
-    </div>
-    <div class="fragment-meta">
-      2025 · metrics
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      The absence of feedback creates fictional realities.
-    </div>
-    <div class="fragment-meta">
-      2024 · communication
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      Process should support thinking, not replace it.
-    </div>
-    <div class="fragment-meta">
-      2025 · thinking
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      A company can become data-driven while understanding less and less.
-    </div>
-    <div class="fragment-meta">
-      2025 · data
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      The more polished the narrative, the more important it becomes to inspect reality.
-    </div>
-    <div class="fragment-meta">
-      2024 · organizations
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      Many operational problems begin long before operations notice them.
-    </div>
-    <div class="fragment-meta">
-      2025 · operations
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      Real experience emerges where systems, people and constraints collide.
-    </div>
-    <div class="fragment-meta">
-      2023 · systems
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      Organizations often underestimate the cognitive cost of bad processes.
-    </div>
-    <div class="fragment-meta">
-      2025 · processes
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      A product roadmap is also a reflection of organizational priorities and fears.
-    </div>
-    <div class="fragment-meta">
-      2024 · product
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      Operational stability is built slowly and destroyed surprisingly fast.
-    </div>
-    <div class="fragment-meta">
-      2025 · operations
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      The best operational systems feel almost invisible.
-    </div>
-    <div class="fragment-meta">
-      2025 · systems
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      Incentives shape behavior faster than speeches.
-    </div>
-    <div class="fragment-meta">
-      2024 · incentives
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      A sophisticated process can still produce dysfunctional outcomes.
-    </div>
-    <div class="fragment-meta">
-      2025 · systems
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      Many companies mistake digitalization for transformation.
-    </div>
-    <div class="fragment-meta">
-      2024 · transformation
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      Simplicity is often interpreted as lack of sophistication.
-    </div>
-    <div class="fragment-meta">
-      2025 · simplicity
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      People trust clarity more than enthusiasm.
-    </div>
-    <div class="fragment-meta">
-      2024 · communication
-    </div>
-  </article>
-
-  <article class="fragment">
-    <div class="fragment-text">
-      The hardest part of scaling is preserving coherence.
-    </div>
-    <div class="fragment-meta">
-      2025 · scaling
-    </div>
-  </article>
-
-</section>
-
+  <section class="archive-grid" id="archive-container">
   </section>
 
   <footer>
@@ -735,28 +219,57 @@
 
 <script>
 
-const searchInput = document.getElementById('searchInput');
+async function loadArchive() {
 
-searchInput.addEventListener('keyup', function(){
+  try {
 
-  const value = this.value.toLowerCase();
+    const response = await fetch('./archive.json');
 
-  const fragments = document.querySelectorAll('.fragment');
+    const data = await response.json();
 
-  fragments.forEach(fragment => {
+    const container = document.getElementById('archive-container');
 
-    const text = fragment.innerText.toLowerCase();
+    data.forEach(fragment => {
 
-    fragment.style.display = text.includes(value)
-      ? 'block'
-      : 'none';
+      const article = document.createElement('article');
 
-  });
+      article.className = 'fragment';
 
-});
+      article.innerHTML = `
+        <div class="fragment-text">
+          ${fragment.text}
+        </div>
+
+        <div class="fragment-meta">
+          ${fragment.year} · ${fragment.topic}
+        </div>
+      `;
+
+      container.appendChild(article);
+
+    });
+
+  } catch(error) {
+
+    console.error(error);
+
+    document.getElementById('archive-container').innerHTML = `
+      <article class="fragment">
+        <div class="fragment-text">
+          Error loading archive.
+        </div>
+      </article>
+    `;
+
+  }
+
+}
+
+loadArchive();
 
 </script>
 
 </body>
 
 </html>
+```

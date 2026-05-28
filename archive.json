@@ -1,0 +1,1002 @@
+[
+  {
+    "text": "Operational workarounds are often product failures in disguise.",
+    "topic": "operations",
+    "year": "2021"
+  },
+  {
+    "text": "Operational workarounds are often product failures in disguise. Most organizations eventually discover this too late.",
+    "topic": "operations",
+    "year": "2021"
+  },
+  {
+    "text": "Operational workarounds are often product failures in disguise. The effect becomes visible at scale.",
+    "topic": "operations",
+    "year": "2021"
+  },
+  {
+    "text": "Operational workarounds are often product failures in disguise. The consequences usually appear gradually.",
+    "topic": "operations",
+    "year": "2021"
+  },
+  {
+    "text": "Operational workarounds are often product failures in disguise. The problem rarely starts where people think it does.",
+    "topic": "operations",
+    "year": "2021"
+  },
+  {
+    "text": "Complexity grows naturally. Simplicity requires intention.",
+    "topic": "complexity",
+    "year": "2021"
+  },
+  {
+    "text": "Complexity grows naturally. Simplicity requires intention. Most organizations eventually discover this too late.",
+    "topic": "complexity",
+    "year": "2021"
+  },
+  {
+    "text": "Complexity grows naturally. Simplicity requires intention. The effect becomes visible at scale.",
+    "topic": "complexity",
+    "year": "2021"
+  },
+  {
+    "text": "Complexity grows naturally. Simplicity requires intention. The consequences usually appear gradually.",
+    "topic": "complexity",
+    "year": "2021"
+  },
+  {
+    "text": "Complexity grows naturally. Simplicity requires intention. The problem rarely starts where people think it does.",
+    "topic": "complexity",
+    "year": "2021"
+  },
+  {
+    "text": "Where transparency is absent, speculation becomes communication.",
+    "topic": "organizations",
+    "year": "2021"
+  },
+  {
+    "text": "Where transparency is absent, speculation becomes communication. Most organizations eventually discover this too late.",
+    "topic": "organizations",
+    "year": "2021"
+  },
+  {
+    "text": "Where transparency is absent, speculation becomes communication. The effect becomes visible at scale.",
+    "topic": "organizations",
+    "year": "2021"
+  },
+  {
+    "text": "Where transparency is absent, speculation becomes communication. The consequences usually appear gradually.",
+    "topic": "organizations",
+    "year": "2021"
+  },
+  {
+    "text": "Where transparency is absent, speculation becomes communication. The problem rarely starts where people think it does.",
+    "topic": "organizations",
+    "year": "2021"
+  },
+  {
+    "text": "A KPI can improve while the experience collapses.",
+    "topic": "systems",
+    "year": "2021"
+  },
+  {
+    "text": "A KPI can improve while the experience collapses. Most organizations eventually discover this too late.",
+    "topic": "systems",
+    "year": "2021"
+  },
+  {
+    "text": "A KPI can improve while the experience collapses. The effect becomes visible at scale.",
+    "topic": "systems",
+    "year": "2021"
+  },
+  {
+    "text": "A KPI can improve while the experience collapses. The consequences usually appear gradually.",
+    "topic": "systems",
+    "year": "2021"
+  },
+  {
+    "text": "A KPI can improve while the experience collapses. The problem rarely starts where people think it does.",
+    "topic": "systems",
+    "year": "2021"
+  },
+  {
+    "text": "Clarity scales better than control.",
+    "topic": "leadership",
+    "year": "2021"
+  },
+  {
+    "text": "Clarity scales better than control. Most organizations eventually discover this too late.",
+    "topic": "leadership",
+    "year": "2021"
+  },
+  {
+    "text": "Clarity scales better than control. The effect becomes visible at scale.",
+    "topic": "leadership",
+    "year": "2021"
+  },
+  {
+    "text": "Clarity scales better than control. The consequences usually appear gradually.",
+    "topic": "leadership",
+    "year": "2021"
+  },
+  {
+    "text": "Clarity scales better than control. The problem rarely starts where people think it does.",
+    "topic": "leadership",
+    "year": "2021"
+  },
+  {
+    "text": "Execution deteriorates when nobody owns the problem end to end.",
+    "topic": "execution",
+    "year": "2021"
+  },
+  {
+    "text": "Execution deteriorates when nobody owns the problem end to end. Most organizations eventually discover this too late.",
+    "topic": "execution",
+    "year": "2021"
+  },
+  {
+    "text": "Execution deteriorates when nobody owns the problem end to end. The effect becomes visible at scale.",
+    "topic": "execution",
+    "year": "2021"
+  },
+  {
+    "text": "Execution deteriorates when nobody owns the problem end to end. The consequences usually appear gradually.",
+    "topic": "execution",
+    "year": "2021"
+  },
+  {
+    "text": "Execution deteriorates when nobody owns the problem end to end. The problem rarely starts where people think it does.",
+    "topic": "execution",
+    "year": "2021"
+  },
+  {
+    "text": "A roadmap without operational reality eventually becomes fiction.",
+    "topic": "product",
+    "year": "2021"
+  },
+  {
+    "text": "A roadmap without operational reality eventually becomes fiction. Most organizations eventually discover this too late.",
+    "topic": "product",
+    "year": "2021"
+  },
+  {
+    "text": "A roadmap without operational reality eventually becomes fiction. The effect becomes visible at scale.",
+    "topic": "product",
+    "year": "2021"
+  },
+  {
+    "text": "A roadmap without operational reality eventually becomes fiction. The consequences usually appear gradually.",
+    "topic": "product",
+    "year": "2021"
+  },
+  {
+    "text": "A roadmap without operational reality eventually becomes fiction. The problem rarely starts where people think it does.",
+    "topic": "product",
+    "year": "2021"
+  },
+  {
+    "text": "Scale amplifies operational weaknesses that already existed.",
+    "topic": "scale",
+    "year": "2021"
+  },
+  {
+    "text": "Scale amplifies operational weaknesses that already existed. Most organizations eventually discover this too late.",
+    "topic": "scale",
+    "year": "2021"
+  },
+  {
+    "text": "Scale amplifies operational weaknesses that already existed. The effect becomes visible at scale.",
+    "topic": "scale",
+    "year": "2021"
+  },
+  {
+    "text": "Scale amplifies operational weaknesses that already existed. The consequences usually appear gradually.",
+    "topic": "scale",
+    "year": "2021"
+  },
+  {
+    "text": "Scale amplifies operational weaknesses that already existed. The problem rarely starts where people think it does.",
+    "topic": "scale",
+    "year": "2021"
+  },
+  {
+    "text": "Bad communication creates more operational debt than bad technology.",
+    "topic": "communication",
+    "year": "2021"
+  },
+  {
+    "text": "Bad communication creates more operational debt than bad technology. Most organizations eventually discover this too late.",
+    "topic": "communication",
+    "year": "2021"
+  },
+  {
+    "text": "Bad communication creates more operational debt than bad technology. The effect becomes visible at scale.",
+    "topic": "communication",
+    "year": "2021"
+  },
+  {
+    "text": "Bad communication creates more operational debt than bad technology. The consequences usually appear gradually.",
+    "topic": "communication",
+    "year": "2021"
+  },
+  {
+    "text": "Bad communication creates more operational debt than bad technology. The problem rarely starts where people think it does.",
+    "topic": "communication",
+    "year": "2021"
+  },
+  {
+    "text": "Culture is often the accumulation of tolerated behaviors.",
+    "topic": "culture",
+    "year": "2021"
+  },
+  {
+    "text": "Culture is often the accumulation of tolerated behaviors. Most organizations eventually discover this too late.",
+    "topic": "culture",
+    "year": "2021"
+  },
+  {
+    "text": "Culture is often the accumulation of tolerated behaviors. The effect becomes visible at scale.",
+    "topic": "culture",
+    "year": "2021"
+  },
+  {
+    "text": "Culture is often the accumulation of tolerated behaviors. The consequences usually appear gradually.",
+    "topic": "culture",
+    "year": "2021"
+  },
+  {
+    "text": "Culture is often the accumulation of tolerated behaviors. The problem rarely starts where people think it does.",
+    "topic": "culture",
+    "year": "2021"
+  },
+  {
+    "text": "Operational workarounds are often product failures in disguise.",
+    "topic": "operations",
+    "year": "2022"
+  },
+  {
+    "text": "Operational workarounds are often product failures in disguise. Most organizations eventually discover this too late.",
+    "topic": "operations",
+    "year": "2022"
+  },
+  {
+    "text": "Operational workarounds are often product failures in disguise. The effect becomes visible at scale.",
+    "topic": "operations",
+    "year": "2022"
+  },
+  {
+    "text": "Operational workarounds are often product failures in disguise. The consequences usually appear gradually.",
+    "topic": "operations",
+    "year": "2022"
+  },
+  {
+    "text": "Operational workarounds are often product failures in disguise. The problem rarely starts where people think it does.",
+    "topic": "operations",
+    "year": "2022"
+  },
+  {
+    "text": "Complexity grows naturally. Simplicity requires intention.",
+    "topic": "complexity",
+    "year": "2022"
+  },
+  {
+    "text": "Complexity grows naturally. Simplicity requires intention. Most organizations eventually discover this too late.",
+    "topic": "complexity",
+    "year": "2022"
+  },
+  {
+    "text": "Complexity grows naturally. Simplicity requires intention. The effect becomes visible at scale.",
+    "topic": "complexity",
+    "year": "2022"
+  },
+  {
+    "text": "Complexity grows naturally. Simplicity requires intention. The consequences usually appear gradually.",
+    "topic": "complexity",
+    "year": "2022"
+  },
+  {
+    "text": "Complexity grows naturally. Simplicity requires intention. The problem rarely starts where people think it does.",
+    "topic": "complexity",
+    "year": "2022"
+  },
+  {
+    "text": "Where transparency is absent, speculation becomes communication.",
+    "topic": "organizations",
+    "year": "2022"
+  },
+  {
+    "text": "Where transparency is absent, speculation becomes communication. Most organizations eventually discover this too late.",
+    "topic": "organizations",
+    "year": "2022"
+  },
+  {
+    "text": "Where transparency is absent, speculation becomes communication. The effect becomes visible at scale.",
+    "topic": "organizations",
+    "year": "2022"
+  },
+  {
+    "text": "Where transparency is absent, speculation becomes communication. The consequences usually appear gradually.",
+    "topic": "organizations",
+    "year": "2022"
+  },
+  {
+    "text": "Where transparency is absent, speculation becomes communication. The problem rarely starts where people think it does.",
+    "topic": "organizations",
+    "year": "2022"
+  },
+  {
+    "text": "A KPI can improve while the experience collapses.",
+    "topic": "systems",
+    "year": "2022"
+  },
+  {
+    "text": "A KPI can improve while the experience collapses. Most organizations eventually discover this too late.",
+    "topic": "systems",
+    "year": "2022"
+  },
+  {
+    "text": "A KPI can improve while the experience collapses. The effect becomes visible at scale.",
+    "topic": "systems",
+    "year": "2022"
+  },
+  {
+    "text": "A KPI can improve while the experience collapses. The consequences usually appear gradually.",
+    "topic": "systems",
+    "year": "2022"
+  },
+  {
+    "text": "A KPI can improve while the experience collapses. The problem rarely starts where people think it does.",
+    "topic": "systems",
+    "year": "2022"
+  },
+  {
+    "text": "Clarity scales better than control.",
+    "topic": "leadership",
+    "year": "2022"
+  },
+  {
+    "text": "Clarity scales better than control. Most organizations eventually discover this too late.",
+    "topic": "leadership",
+    "year": "2022"
+  },
+  {
+    "text": "Clarity scales better than control. The effect becomes visible at scale.",
+    "topic": "leadership",
+    "year": "2022"
+  },
+  {
+    "text": "Clarity scales better than control. The consequences usually appear gradually.",
+    "topic": "leadership",
+    "year": "2022"
+  },
+  {
+    "text": "Clarity scales better than control. The problem rarely starts where people think it does.",
+    "topic": "leadership",
+    "year": "2022"
+  },
+  {
+    "text": "Execution deteriorates when nobody owns the problem end to end.",
+    "topic": "execution",
+    "year": "2022"
+  },
+  {
+    "text": "Execution deteriorates when nobody owns the problem end to end. Most organizations eventually discover this too late.",
+    "topic": "execution",
+    "year": "2022"
+  },
+  {
+    "text": "Execution deteriorates when nobody owns the problem end to end. The effect becomes visible at scale.",
+    "topic": "execution",
+    "year": "2022"
+  },
+  {
+    "text": "Execution deteriorates when nobody owns the problem end to end. The consequences usually appear gradually.",
+    "topic": "execution",
+    "year": "2022"
+  },
+  {
+    "text": "Execution deteriorates when nobody owns the problem end to end. The problem rarely starts where people think it does.",
+    "topic": "execution",
+    "year": "2022"
+  },
+  {
+    "text": "A roadmap without operational reality eventually becomes fiction.",
+    "topic": "product",
+    "year": "2022"
+  },
+  {
+    "text": "A roadmap without operational reality eventually becomes fiction. Most organizations eventually discover this too late.",
+    "topic": "product",
+    "year": "2022"
+  },
+  {
+    "text": "A roadmap without operational reality eventually becomes fiction. The effect becomes visible at scale.",
+    "topic": "product",
+    "year": "2022"
+  },
+  {
+    "text": "A roadmap without operational reality eventually becomes fiction. The consequences usually appear gradually.",
+    "topic": "product",
+    "year": "2022"
+  },
+  {
+    "text": "A roadmap without operational reality eventually becomes fiction. The problem rarely starts where people think it does.",
+    "topic": "product",
+    "year": "2022"
+  },
+  {
+    "text": "Scale amplifies operational weaknesses that already existed.",
+    "topic": "scale",
+    "year": "2022"
+  },
+  {
+    "text": "Scale amplifies operational weaknesses that already existed. Most organizations eventually discover this too late.",
+    "topic": "scale",
+    "year": "2022"
+  },
+  {
+    "text": "Scale amplifies operational weaknesses that already existed. The effect becomes visible at scale.",
+    "topic": "scale",
+    "year": "2022"
+  },
+  {
+    "text": "Scale amplifies operational weaknesses that already existed. The consequences usually appear gradually.",
+    "topic": "scale",
+    "year": "2022"
+  },
+  {
+    "text": "Scale amplifies operational weaknesses that already existed. The problem rarely starts where people think it does.",
+    "topic": "scale",
+    "year": "2022"
+  },
+  {
+    "text": "Bad communication creates more operational debt than bad technology.",
+    "topic": "communication",
+    "year": "2022"
+  },
+  {
+    "text": "Bad communication creates more operational debt than bad technology. Most organizations eventually discover this too late.",
+    "topic": "communication",
+    "year": "2022"
+  },
+  {
+    "text": "Bad communication creates more operational debt than bad technology. The effect becomes visible at scale.",
+    "topic": "communication",
+    "year": "2022"
+  },
+  {
+    "text": "Bad communication creates more operational debt than bad technology. The consequences usually appear gradually.",
+    "topic": "communication",
+    "year": "2022"
+  },
+  {
+    "text": "Bad communication creates more operational debt than bad technology. The problem rarely starts where people think it does.",
+    "topic": "communication",
+    "year": "2022"
+  },
+  {
+    "text": "Culture is often the accumulation of tolerated behaviors.",
+    "topic": "culture",
+    "year": "2022"
+  },
+  {
+    "text": "Culture is often the accumulation of tolerated behaviors. Most organizations eventually discover this too late.",
+    "topic": "culture",
+    "year": "2022"
+  },
+  {
+    "text": "Culture is often the accumulation of tolerated behaviors. The effect becomes visible at scale.",
+    "topic": "culture",
+    "year": "2022"
+  },
+  {
+    "text": "Culture is often the accumulation of tolerated behaviors. The consequences usually appear gradually.",
+    "topic": "culture",
+    "year": "2022"
+  },
+  {
+    "text": "Culture is often the accumulation of tolerated behaviors. The problem rarely starts where people think it does.",
+    "topic": "culture",
+    "year": "2022"
+  },
+  {
+    "text": "Operational workarounds are often product failures in disguise.",
+    "topic": "operations",
+    "year": "2023"
+  },
+  {
+    "text": "Operational workarounds are often product failures in disguise. Most organizations eventually discover this too late.",
+    "topic": "operations",
+    "year": "2023"
+  },
+  {
+    "text": "Operational workarounds are often product failures in disguise. The effect becomes visible at scale.",
+    "topic": "operations",
+    "year": "2023"
+  },
+  {
+    "text": "Operational workarounds are often product failures in disguise. The consequences usually appear gradually.",
+    "topic": "operations",
+    "year": "2023"
+  },
+  {
+    "text": "Operational workarounds are often product failures in disguise. The problem rarely starts where people think it does.",
+    "topic": "operations",
+    "year": "2023"
+  },
+  {
+    "text": "Complexity grows naturally. Simplicity requires intention.",
+    "topic": "complexity",
+    "year": "2023"
+  },
+  {
+    "text": "Complexity grows naturally. Simplicity requires intention. Most organizations eventually discover this too late.",
+    "topic": "complexity",
+    "year": "2023"
+  },
+  {
+    "text": "Complexity grows naturally. Simplicity requires intention. The effect becomes visible at scale.",
+    "topic": "complexity",
+    "year": "2023"
+  },
+  {
+    "text": "Complexity grows naturally. Simplicity requires intention. The consequences usually appear gradually.",
+    "topic": "complexity",
+    "year": "2023"
+  },
+  {
+    "text": "Complexity grows naturally. Simplicity requires intention. The problem rarely starts where people think it does.",
+    "topic": "complexity",
+    "year": "2023"
+  },
+  {
+    "text": "Where transparency is absent, speculation becomes communication.",
+    "topic": "organizations",
+    "year": "2023"
+  },
+  {
+    "text": "Where transparency is absent, speculation becomes communication. Most organizations eventually discover this too late.",
+    "topic": "organizations",
+    "year": "2023"
+  },
+  {
+    "text": "Where transparency is absent, speculation becomes communication. The effect becomes visible at scale.",
+    "topic": "organizations",
+    "year": "2023"
+  },
+  {
+    "text": "Where transparency is absent, speculation becomes communication. The consequences usually appear gradually.",
+    "topic": "organizations",
+    "year": "2023"
+  },
+  {
+    "text": "Where transparency is absent, speculation becomes communication. The problem rarely starts where people think it does.",
+    "topic": "organizations",
+    "year": "2023"
+  },
+  {
+    "text": "A KPI can improve while the experience collapses.",
+    "topic": "systems",
+    "year": "2023"
+  },
+  {
+    "text": "A KPI can improve while the experience collapses. Most organizations eventually discover this too late.",
+    "topic": "systems",
+    "year": "2023"
+  },
+  {
+    "text": "A KPI can improve while the experience collapses. The effect becomes visible at scale.",
+    "topic": "systems",
+    "year": "2023"
+  },
+  {
+    "text": "A KPI can improve while the experience collapses. The consequences usually appear gradually.",
+    "topic": "systems",
+    "year": "2023"
+  },
+  {
+    "text": "A KPI can improve while the experience collapses. The problem rarely starts where people think it does.",
+    "topic": "systems",
+    "year": "2023"
+  },
+  {
+    "text": "Clarity scales better than control.",
+    "topic": "leadership",
+    "year": "2023"
+  },
+  {
+    "text": "Clarity scales better than control. Most organizations eventually discover this too late.",
+    "topic": "leadership",
+    "year": "2023"
+  },
+  {
+    "text": "Clarity scales better than control. The effect becomes visible at scale.",
+    "topic": "leadership",
+    "year": "2023"
+  },
+  {
+    "text": "Clarity scales better than control. The consequences usually appear gradually.",
+    "topic": "leadership",
+    "year": "2023"
+  },
+  {
+    "text": "Clarity scales better than control. The problem rarely starts where people think it does.",
+    "topic": "leadership",
+    "year": "2023"
+  },
+  {
+    "text": "Execution deteriorates when nobody owns the problem end to end.",
+    "topic": "execution",
+    "year": "2023"
+  },
+  {
+    "text": "Execution deteriorates when nobody owns the problem end to end. Most organizations eventually discover this too late.",
+    "topic": "execution",
+    "year": "2023"
+  },
+  {
+    "text": "Execution deteriorates when nobody owns the problem end to end. The effect becomes visible at scale.",
+    "topic": "execution",
+    "year": "2023"
+  },
+  {
+    "text": "Execution deteriorates when nobody owns the problem end to end. The consequences usually appear gradually.",
+    "topic": "execution",
+    "year": "2023"
+  },
+  {
+    "text": "Execution deteriorates when nobody owns the problem end to end. The problem rarely starts where people think it does.",
+    "topic": "execution",
+    "year": "2023"
+  },
+  {
+    "text": "A roadmap without operational reality eventually becomes fiction.",
+    "topic": "product",
+    "year": "2023"
+  },
+  {
+    "text": "A roadmap without operational reality eventually becomes fiction. Most organizations eventually discover this too late.",
+    "topic": "product",
+    "year": "2023"
+  },
+  {
+    "text": "A roadmap without operational reality eventually becomes fiction. The effect becomes visible at scale.",
+    "topic": "product",
+    "year": "2023"
+  },
+  {
+    "text": "A roadmap without operational reality eventually becomes fiction. The consequences usually appear gradually.",
+    "topic": "product",
+    "year": "2023"
+  },
+  {
+    "text": "A roadmap without operational reality eventually becomes fiction. The problem rarely starts where people think it does.",
+    "topic": "product",
+    "year": "2023"
+  },
+  {
+    "text": "Scale amplifies operational weaknesses that already existed.",
+    "topic": "scale",
+    "year": "2023"
+  },
+  {
+    "text": "Scale amplifies operational weaknesses that already existed. Most organizations eventually discover this too late.",
+    "topic": "scale",
+    "year": "2023"
+  },
+  {
+    "text": "Scale amplifies operational weaknesses that already existed. The effect becomes visible at scale.",
+    "topic": "scale",
+    "year": "2023"
+  },
+  {
+    "text": "Scale amplifies operational weaknesses that already existed. The consequences usually appear gradually.",
+    "topic": "scale",
+    "year": "2023"
+  },
+  {
+    "text": "Scale amplifies operational weaknesses that already existed. The problem rarely starts where people think it does.",
+    "topic": "scale",
+    "year": "2023"
+  },
+  {
+    "text": "Bad communication creates more operational debt than bad technology.",
+    "topic": "communication",
+    "year": "2023"
+  },
+  {
+    "text": "Bad communication creates more operational debt than bad technology. Most organizations eventually discover this too late.",
+    "topic": "communication",
+    "year": "2023"
+  },
+  {
+    "text": "Bad communication creates more operational debt than bad technology. The effect becomes visible at scale.",
+    "topic": "communication",
+    "year": "2023"
+  },
+  {
+    "text": "Bad communication creates more operational debt than bad technology. The consequences usually appear gradually.",
+    "topic": "communication",
+    "year": "2023"
+  },
+  {
+    "text": "Bad communication creates more operational debt than bad technology. The problem rarely starts where people think it does.",
+    "topic": "communication",
+    "year": "2023"
+  },
+  {
+    "text": "Culture is often the accumulation of tolerated behaviors.",
+    "topic": "culture",
+    "year": "2023"
+  },
+  {
+    "text": "Culture is often the accumulation of tolerated behaviors. Most organizations eventually discover this too late.",
+    "topic": "culture",
+    "year": "2023"
+  },
+  {
+    "text": "Culture is often the accumulation of tolerated behaviors. The effect becomes visible at scale.",
+    "topic": "culture",
+    "year": "2023"
+  },
+  {
+    "text": "Culture is often the accumulation of tolerated behaviors. The consequences usually appear gradually.",
+    "topic": "culture",
+    "year": "2023"
+  },
+  {
+    "text": "Culture is often the accumulation of tolerated behaviors. The problem rarely starts where people think it does.",
+    "topic": "culture",
+    "year": "2023"
+  },
+  {
+    "text": "Operational workarounds are often product failures in disguise.",
+    "topic": "operations",
+    "year": "2024"
+  },
+  {
+    "text": "Operational workarounds are often product failures in disguise. Most organizations eventually discover this too late.",
+    "topic": "operations",
+    "year": "2024"
+  },
+  {
+    "text": "Operational workarounds are often product failures in disguise. The effect becomes visible at scale.",
+    "topic": "operations",
+    "year": "2024"
+  },
+  {
+    "text": "Operational workarounds are often product failures in disguise. The consequences usually appear gradually.",
+    "topic": "operations",
+    "year": "2024"
+  },
+  {
+    "text": "Operational workarounds are often product failures in disguise. The problem rarely starts where people think it does.",
+    "topic": "operations",
+    "year": "2024"
+  },
+  {
+    "text": "Complexity grows naturally. Simplicity requires intention.",
+    "topic": "complexity",
+    "year": "2024"
+  },
+  {
+    "text": "Complexity grows naturally. Simplicity requires intention. Most organizations eventually discover this too late.",
+    "topic": "complexity",
+    "year": "2024"
+  },
+  {
+    "text": "Complexity grows naturally. Simplicity requires intention. The effect becomes visible at scale.",
+    "topic": "complexity",
+    "year": "2024"
+  },
+  {
+    "text": "Complexity grows naturally. Simplicity requires intention. The consequences usually appear gradually.",
+    "topic": "complexity",
+    "year": "2024"
+  },
+  {
+    "text": "Complexity grows naturally. Simplicity requires intention. The problem rarely starts where people think it does.",
+    "topic": "complexity",
+    "year": "2024"
+  },
+  {
+    "text": "Where transparency is absent, speculation becomes communication.",
+    "topic": "organizations",
+    "year": "2024"
+  },
+  {
+    "text": "Where transparency is absent, speculation becomes communication. Most organizations eventually discover this too late.",
+    "topic": "organizations",
+    "year": "2024"
+  },
+  {
+    "text": "Where transparency is absent, speculation becomes communication. The effect becomes visible at scale.",
+    "topic": "organizations",
+    "year": "2024"
+  },
+  {
+    "text": "Where transparency is absent, speculation becomes communication. The consequences usually appear gradually.",
+    "topic": "organizations",
+    "year": "2024"
+  },
+  {
+    "text": "Where transparency is absent, speculation becomes communication. The problem rarely starts where people think it does.",
+    "topic": "organizations",
+    "year": "2024"
+  },
+  {
+    "text": "A KPI can improve while the experience collapses.",
+    "topic": "systems",
+    "year": "2024"
+  },
+  {
+    "text": "A KPI can improve while the experience collapses. Most organizations eventually discover this too late.",
+    "topic": "systems",
+    "year": "2024"
+  },
+  {
+    "text": "A KPI can improve while the experience collapses. The effect becomes visible at scale.",
+    "topic": "systems",
+    "year": "2024"
+  },
+  {
+    "text": "A KPI can improve while the experience collapses. The consequences usually appear gradually.",
+    "topic": "systems",
+    "year": "2024"
+  },
+  {
+    "text": "A KPI can improve while the experience collapses. The problem rarely starts where people think it does.",
+    "topic": "systems",
+    "year": "2024"
+  },
+  {
+    "text": "Clarity scales better than control.",
+    "topic": "leadership",
+    "year": "2024"
+  },
+  {
+    "text": "Clarity scales better than control. Most organizations eventually discover this too late.",
+    "topic": "leadership",
+    "year": "2024"
+  },
+  {
+    "text": "Clarity scales better than control. The effect becomes visible at scale.",
+    "topic": "leadership",
+    "year": "2024"
+  },
+  {
+    "text": "Clarity scales better than control. The consequences usually appear gradually.",
+    "topic": "leadership",
+    "year": "2024"
+  },
+  {
+    "text": "Clarity scales better than control. The problem rarely starts where people think it does.",
+    "topic": "leadership",
+    "year": "2024"
+  },
+  {
+    "text": "Execution deteriorates when nobody owns the problem end to end.",
+    "topic": "execution",
+    "year": "2024"
+  },
+  {
+    "text": "Execution deteriorates when nobody owns the problem end to end. Most organizations eventually discover this too late.",
+    "topic": "execution",
+    "year": "2024"
+  },
+  {
+    "text": "Execution deteriorates when nobody owns the problem end to end. The effect becomes visible at scale.",
+    "topic": "execution",
+    "year": "2024"
+  },
+  {
+    "text": "Execution deteriorates when nobody owns the problem end to end. The consequences usually appear gradually.",
+    "topic": "execution",
+    "year": "2024"
+  },
+  {
+    "text": "Execution deteriorates when nobody owns the problem end to end. The problem rarely starts where people think it does.",
+    "topic": "execution",
+    "year": "2024"
+  },
+  {
+    "text": "A roadmap without operational reality eventually becomes fiction.",
+    "topic": "product",
+    "year": "2024"
+  },
+  {
+    "text": "A roadmap without operational reality eventually becomes fiction. Most organizations eventually discover this too late.",
+    "topic": "product",
+    "year": "2024"
+  },
+  {
+    "text": "A roadmap without operational reality eventually becomes fiction. The effect becomes visible at scale.",
+    "topic": "product",
+    "year": "2024"
+  },
+  {
+    "text": "A roadmap without operational reality eventually becomes fiction. The consequences usually appear gradually.",
+    "topic": "product",
+    "year": "2024"
+  },
+  {
+    "text": "A roadmap without operational reality eventually becomes fiction. The problem rarely starts where people think it does.",
+    "topic": "product",
+    "year": "2024"
+  },
+  {
+    "text": "Scale amplifies operational weaknesses that already existed.",
+    "topic": "scale",
+    "year": "2024"
+  },
+  {
+    "text": "Scale amplifies operational weaknesses that already existed. Most organizations eventually discover this too late.",
+    "topic": "scale",
+    "year": "2024"
+  },
+  {
+    "text": "Scale amplifies operational weaknesses that already existed. The effect becomes visible at scale.",
+    "topic": "scale",
+    "year": "2024"
+  },
+  {
+    "text": "Scale amplifies operational weaknesses that already existed. The consequences usually appear gradually.",
+    "topic": "scale",
+    "year": "2024"
+  },
+  {
+    "text": "Scale amplifies operational weaknesses that already existed. The problem rarely starts where people think it does.",
+    "topic": "scale",
+    "year": "2024"
+  },
+  {
+    "text": "Bad communication creates more operational debt than bad technology.",
+    "topic": "communication",
+    "year": "2024"
+  },
+  {
+    "text": "Bad communication creates more operational debt than bad technology. Most organizations eventually discover this too late.",
+    "topic": "communication",
+    "year": "2024"
+  },
+  {
+    "text": "Bad communication creates more operational debt than bad technology. The effect becomes visible at scale.",
+    "topic": "communication",
+    "year": "2024"
+  },
+  {
+    "text": "Bad communication creates more operational debt than bad technology. The consequences usually appear gradually.",
+    "topic": "communication",
+    "year": "2024"
+  },
+  {
+    "text": "Bad communication creates more operational debt than bad technology. The problem rarely starts where people think it does.",
+    "topic": "communication",
+    "year": "2024"
+  },
+  {
+    "text": "Culture is often the accumulation of tolerated behaviors.",
+    "topic": "culture",
+    "year": "2024"
+  },
+  {
+    "text": "Culture is often the accumulation of tolerated behaviors. Most organizations eventually discover this too late.",
+    "topic": "culture",
+    "year": "2024"
+  },
+  {
+    "text": "Culture is often the accumulation of tolerated behaviors. The effect becomes visible at scale.",
+    "topic": "culture",
+    "year": "2024"
+  },
+  {
+    "text": "Culture is often the accumulation of tolerated behaviors. The consequences usually appear gradually.",
+    "topic": "culture",
+    "year": "2024"
+  },
+  {
+    "text": "Culture is often the accumulation of tolerated behaviors. The problem rarely starts where people think it does.",
+    "topic": "culture",
+    "year": "2024"
+  }
+]
