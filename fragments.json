@@ -1,152 +1,152 @@
 [
   {
-    "text": "Operational workarounds are often product failures in disguise."
+    "text": "Operational workarounds are often product failures in disguise.",
+    "topic": "operations",
+    "year": "2026"
   },
   {
-    "text": "Complexity grows naturally. Simplicity requires intention."
+    "text": "Complexity grows naturally. Simplicity requires intention.",
+    "topic": "complexity",
+    "year": "2025"
   },
   {
-    "text": "Where transparency is absent, speculation becomes communication."
+    "text": "Where transparency is absent, speculation becomes communication.",
+    "topic": "organizations",
+    "year": "2021"
   },
   {
-    "text": "A KPI can improve while the experience collapses."
+    "text": "A KPI can improve while the experience collapses.",
+    "topic": "systems",
+    "year": "2024"
   },
   {
-    "text": "Most organizational problems survive because they were normalized long ago."
+    "text": "Most organizational problems survive because they were normalized long ago.",
+    "topic": "organizations",
+    "year": "2025"
   },
   {
-    "text": "Clarity scales better than control."
+    "text": "Clarity scales better than control.",
+    "topic": "leadership",
+    "year": "2025"
   },
   {
-    "text": "Most delays are caused by dependencies, not by the work itself."
+    "text": "Most delays are caused by dependencies, not by the work itself.",
+    "topic": "operations",
+    "year": "2026"
   },
   {
-    "text": "Organizations rarely collapse suddenly. They erode gradually through ambiguity and friction."
+    "text": "Organizations rarely collapse suddenly. They erode gradually through ambiguity and friction.",
+    "topic": "systems",
+    "year": "2025"
   },
   {
-    "text": "People usually resist uncertainty more than change itself."
+    "text": "People usually resist uncertainty more than change itself.",
+    "topic": "behavior",
+    "year": "2024"
   },
   {
-    "text": "Execution deteriorates when nobody owns the problem end to end."
+    "text": "Execution deteriorates when nobody owns the problem end to end.",
+    "topic": "execution",
+    "year": "2026"
   },
   {
-    "text": "A roadmap without operational reality eventually becomes fiction."
+    "text": "A roadmap without operational reality eventually becomes fiction.",
+    "topic": "product",
+    "year": "2025"
   },
   {
-    "text": "Most meetings exist because systems do not communicate clearly enough."
+    "text": "Most meetings exist because systems do not communicate clearly enough.",
+    "topic": "organizations",
+    "year": "2024"
   },
   {
-    "text": "Scale amplifies operational weaknesses that already existed."
+    "text": "Scale amplifies operational weaknesses that already existed.",
+    "topic": "scale",
+    "year": "2025"
   },
   {
-    "text": "Processes created to reduce chaos often end up institutionalizing it."
+    "text": "Processes created to reduce chaos often end up institutionalizing it.",
+    "topic": "processes",
+    "year": "2025"
   },
   {
-    "text": "Many companies optimize metrics while slowly destroying trust."
+    "text": "Many companies optimize metrics while slowly destroying trust.",
+    "topic": "organizations",
+    "year": "2024"
   },
   {
-    "text": "Bad communication creates more operational debt than bad technology."
+    "text": "Bad communication creates more operational debt than bad technology.",
+    "topic": "communication",
+    "year": "2025"
   },
   {
-    "text": "People do not burn out only because of workload, but because of prolonged ambiguity."
+    "text": "People do not burn out only because of workload, but because of prolonged ambiguity.",
+    "topic": "behavior",
+    "year": "2024"
   },
   {
-    "text": "Most organizations underestimate the hidden cost of fragmentation."
+    "text": "Most organizations underestimate the hidden cost of fragmentation.",
+    "topic": "organizations",
+    "year": "2025"
   },
   {
-    "text": "A system becomes fragile when only a few people truly understand it."
+    "text": "A system becomes fragile when only a few people truly understand it.",
+    "topic": "systems",
+    "year": "2025"
   },
   {
-    "text": "Efficiency without understanding usually creates larger problems later."
+    "text": "Efficiency without understanding usually creates larger problems later.",
+    "topic": "operations",
+    "year": "2025"
   },
   {
-    "text": "The larger the organization, the easier it becomes to confuse movement with progress."
+    "text": "The larger the organization, the easier it becomes to confuse movement with progress.",
+    "topic": "organizations",
+    "year": "2024"
   },
   {
-    "text": "Culture is often the accumulation of tolerated behaviors."
+    "text": "Culture is often the accumulation of tolerated behaviors.",
+    "topic": "culture",
+    "year": "2025"
   },
   {
-    "text": "People align faster around clarity than around motivation."
+    "text": "People align faster around clarity than around motivation.",
+    "topic": "leadership",
+    "year": "2024"
   },
   {
-    "text": "Every workaround silently teaches the organization to avoid solving the real problem."
+    "text": "Every workaround silently teaches the organization to avoid solving the real problem.",
+    "topic": "operations",
+    "year": "2026"
   },
   {
-    "text": "Most operational chaos is predictable long before it becomes visible."
+    "text": "Most operational chaos is predictable long before it becomes visible.",
+    "topic": "operations",
+    "year": "2025"
   },
   {
-    "text": "Organizations become slower when every decision requires consensus."
+    "text": "Organizations become slower when every decision requires consensus.",
+    "topic": "organizations",
+    "year": "2024"
   },
   {
-    "text": "Many systems appear stable only because nobody is measuring the real friction."
+    "text": "Many systems appear stable only because nobody is measuring the real friction.",
+    "topic": "systems",
+    "year": "2025"
   },
   {
-    "text": "The absence of conflict does not necessarily mean alignment exists."
+    "text": "The absence of conflict does not necessarily mean alignment exists.",
+    "topic": "organizations",
+    "year": "2024"
   },
   {
-    "text": "Simplicity is rarely accidental in complex environments."
+    "text": "Simplicity is rarely accidental in complex environments.",
+    "topic": "complexity",
+    "year": "2025"
   },
   {
-    "text": "Leadership becomes dangerous when confidence grows faster than understanding."
-  },
-  {
-    "text": "Teams deteriorate when priorities constantly change without explanation."
-  },
-  {
-    "text": "Operational maturity is often invisible until a crisis appears."
-  },
-  {
-    "text": "The problem is rarely technology alone. It is usually the interaction between systems and people."
-  },
-  {
-    "text": "Many organizations collect data but fail to generate understanding."
-  },
-  {
-    "text": "The more fragmented the ownership, the slower the execution."
-  },
-  {
-    "text": "A company can scale revenue while internally collapsing."
-  },
-  {
-    "text": "Complex systems fail gradually before they fail visibly."
-  },
-  {
-    "text": "Most people are not looking for truth. They are looking for confirmation."
-  },
-  {
-    "text": "A process is not efficient simply because it became routine."
-  },
-  {
-    "text": "Organizations tend to reward short-term visibility over long-term resilience."
-  },
-  {
-    "text": "Many operational problems survive because solving them would require structural change."
-  },
-  {
-    "text": "Real alignment becomes visible during moments of pressure."
-  },
-  {
-    "text": "The inability to simplify is often a symptom of poor understanding."
-  },
-  {
-    "text": "Technology accelerates both efficiency and dysfunction."
-  },
-  {
-    "text": "A decision delayed long enough eventually becomes a decision itself."
-  },
-  {
-    "text": "The more layers between reality and decision-making, the weaker the organization becomes."
-  },
-  {
-    "text": "People tolerate complexity longer than they tolerate uncertainty."
-  },
-  {
-    "text": "Execution suffers when incentives are disconnected from reality."
-  },
-  {
-    "text": "Many organizations measure productivity while ignoring cognitive overload."
-  },
-  {
-    "text": "Most systems do not fail because of one catastrophic event, but because of accumulated neglect."
+    "text": "Leadership becomes dangerous when confidence grows faster than understanding.",
+    "topic": "leadership",
+    "year": "2024"
   }
 ]
