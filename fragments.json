@@ -1,0 +1,156 @@
+# fragments.json
+
+```json
+[
+  {
+    "text": "Operational workarounds are often product failures in disguise."
+  },
+  {
+    "text": "Complexity grows naturally. Simplicity requires intention."
+  },
+  {
+    "text": "Where transparency is absent, speculation becomes communication."
+  },
+  {
+    "text": "A KPI can improve while the experience collapses."
+  },
+  {
+    "text": "Most organizational problems survive because they were normalized long ago."
+  },
+  {
+    "text": "Clarity scales better than control."
+  },
+  {
+    "text": "Most delays are caused by dependencies, not by the work itself."
+  },
+  {
+    "text": "Organizations rarely collapse suddenly. They erode gradually through ambiguity and friction."
+  },
+  {
+    "text": "People usually resist uncertainty more than change itself."
+  },
+  {
+    "text": "Execution deteriorates when nobody owns the problem end to end."
+  },
+  {
+    "text": "A roadmap without operational reality eventually becomes fiction."
+  },
+  {
+    "text": "Most meetings exist because systems do not communicate clearly enough."
+  },
+  {
+    "text": "Scale amplifies operational weaknesses that already existed."
+  },
+  {
+    "text": "Processes created to reduce chaos often end up institutionalizing it."
+  },
+  {
+    "text": "Many companies optimize metrics while slowly destroying trust."
+  },
+  {
+    "text": "Bad communication creates more operational debt than bad technology."
+  },
+  {
+    "text": "People do not burn out only because of workload, but because of prolonged ambiguity."
+  },
+  {
+    "text": "Most organizations underestimate the hidden cost of fragmentation."
+  },
+  {
+    "text": "A system becomes fragile when only a few people truly understand it."
+  },
+  {
+    "text": "Efficiency without understanding usually creates larger problems later."
+  },
+  {
+    "text": "The larger the organization, the easier it becomes to confuse movement with progress."
+  },
+  {
+    "text": "Culture is often the accumulation of tolerated behaviors."
+  },
+  {
+    "text": "People align faster around clarity than around motivation."
+  },
+  {
+    "text": "Every workaround silently teaches the organization to avoid solving the real problem."
+  },
+  {
+    "text": "Most operational chaos is predictable long before it becomes visible."
+  },
+  {
+    "text": "Organizations become slower when every decision requires consensus."
+  },
+  {
+    "text": "Many systems appear stable only because nobody is measuring the real friction."
+  },
+  {
+    "text": "The absence of conflict does not necessarily mean alignment exists."
+  },
+  {
+    "text": "Simplicity is rarely accidental in complex environments."
+  },
+  {
+    "text": "Leadership becomes dangerous when confidence grows faster than understanding."
+  },
+  {
+    "text": "Teams deteriorate when priorities constantly change without explanation."
+  },
+  {
+    "text": "Operational maturity is often invisible until a crisis appears."
+  },
+  {
+    "text": "The problem is rarely technology alone. It is usually the interaction between systems and people."
+  },
+  {
+    "text": "Many organizations collect data but fail to generate understanding."
+  },
+  {
+    "text": "The more fragmented the ownership, the slower the execution."
+  },
+  {
+    "text": "A company can scale revenue while internally collapsing."
+  },
+  {
+    "text": "Complex systems fail gradually before they fail visibly."
+  },
+  {
+    "text": "Most people are not looking for truth. They are looking for confirmation."
+  },
+  {
+    "text": "A process is not efficient simply because it became routine."
+  },
+  {
+    "text": "Organizations tend to reward short-term visibility over long-term resilience."
+  },
+  {
+    "text": "Many operational problems survive because solving them would require structural change."
+  },
+  {
+    "text": "Real alignment becomes visible during moments of pressure."
+  },
+  {
+    "text": "The inability to simplify is often a symptom of poor understanding."
+  },
+  {
+    "text": "Technology accelerates both efficiency and dysfunction."
+  },
+  {
+    "text": "A decision delayed long enough eventually becomes a decision itself."
+  },
+  {
+    "text": "The more layers between reality and decision-making, the weaker the organization becomes."
+  },
+  {
+    "text": "People tolerate complexity longer than they tolerate uncertainty."
+  },
+  {
+    "text": "Execution suffers when incentives are disconnected from reality."
+  },
+  {
+    "text": "Many organizations measure productivity while ignoring cognitive overload."
+  },
+  {
+    "text": "Most systems do not fail because of one catastrophic event, but because of accumulated neglect."
+  }
+]
+```
