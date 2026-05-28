@@ -1,165 +1,217 @@
-```html id="z7x4oc"
+```html
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
 
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>Archive — Fragments</title>
+<title>Archive — Fragments</title>
 
-  <meta name="description" content="Archive of fragments by Francisco Cobos.">
+<meta name="description" content="Archive of fragments by Francisco Cobos.">
 
-  <style>
+<style>
 
-    *{
-      margin:0;
-      padding:0;
-      box-sizing:border-box;
-    }
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
 
-    html{
-      scroll-behavior:smooth;
-    }
+html{
+  scroll-behavior:smooth;
+}
 
-    body{
-      background:#0b0b0b;
-      color:#f5f5f5;
-      font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
-      line-height:1.7;
-      -webkit-font-smoothing:antialiased;
-    }
+body{
+  background:#0b0b0b;
+  color:#f5f5f5;
+  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+  line-height:1.7;
+  -webkit-font-smoothing:antialiased;
+}
 
-    a{
-      text-decoration:none;
-      color:inherit;
-    }
+a{
+  text-decoration:none;
+  color:inherit;
+}
 
-    nav{
-      position:fixed;
-      top:0;
-      width:100%;
-      backdrop-filter:blur(10px);
-      background:rgba(11,11,11,0.72);
-      border-bottom:1px solid rgba(255,255,255,0.06);
-      z-index:100;
-    }
+nav{
+  position:fixed;
+  top:0;
+  width:100%;
+  backdrop-filter:blur(10px);
+  background:rgba(11,11,11,0.72);
+  border-bottom:1px solid rgba(255,255,255,0.06);
+  z-index:100;
+}
 
-    .nav-container{
-      width:90%;
-      max-width:1100px;
-      margin:auto;
-      display:flex;
-      justify-content:space-between;
-      align-items:center;
-      padding:18px 0;
-    }
+.nav-container{
+  width:90%;
+  max-width:1100px;
+  margin:auto;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  padding:18px 0;
+}
 
-    .logo{
-      font-weight:700;
-    }
+.logo{
+  font-weight:700;
+}
 
-    .menu{
-      display:flex;
-      gap:24px;
-      color:#9a9a9a;
-      font-size:0.92rem;
-    }
+.menu{
+  display:flex;
+  gap:24px;
+  color:#9a9a9a;
+  font-size:0.92rem;
+}
 
-    .menu a:hover{
-      color:white;
-    }
+.menu a:hover{
+  color:white;
+}
 
-    main{
-      width:90%;
-      max-width:900px;
-      margin:auto;
-      padding-top:140px;
-      padding-bottom:120px;
-    }
+main{
+  width:90%;
+  max-width:900px;
+  margin:auto;
+  padding-top:140px;
+  padding-bottom:120px;
+}
 
-    .hero{
-      margin-bottom:100px;
-    }
+.hero{
+  margin-bottom:80px;
+}
 
-    .hero h1{
-      font-size:4rem;
-      line-height:0.95;
-      letter-spacing:-3px;
-      margin-bottom:24px;
-    }
+.hero h1{
+  font-size:4rem;
+  line-height:0.95;
+  letter-spacing:-3px;
+  margin-bottom:24px;
+}
 
-    .hero p{
-      color:#9d9d9d;
-      max-width:720px;
-      font-size:1.05rem;
-    }
+.hero p{
+  color:#9d9d9d;
+  max-width:720px;
+  font-size:1.05rem;
+}
 
-    .archive-grid{
-      display:flex;
-      flex-direction:column;
-      gap:42px;
-    }
+.search-container{
+  margin-bottom:40px;
+}
 
-    .fragment{
-      border-left:1px solid rgba(255,255,255,0.08);
-      padding-left:28px;
-    }
+.search-input{
+  width:100%;
+  padding:16px 20px;
+  background:#121212;
+  border:1px solid rgba(255,255,255,0.08);
+  border-radius:14px;
+  color:white;
+  font-size:1rem;
+  outline:none;
+}
 
-    .fragment-text{
-      font-size:1.45rem;
-      line-height:1.5;
-      letter-spacing:-0.5px;
-      margin-bottom:14px;
-    }
+.search-input:focus{
+  border-color:rgba(255,255,255,0.2);
+}
 
-    .fragment-meta{
-      color:#6f6f6f;
-      font-size:0.9rem;
-      text-transform:lowercase;
-    }
+.topic-filters{
+  display:flex;
+  flex-wrap:wrap;
+  gap:12px;
+  margin-top:24px;
+}
 
-    footer{
-      border-top:1px solid rgba(255,255,255,0.06);
-      margin-top:120px;
-      padding:40px 0;
-      color:#666;
-      font-size:0.92rem;
-      display:flex;
-      justify-content:space-between;
-      flex-wrap:wrap;
-      gap:20px;
-    }
+.topic-button{
+  padding:10px 16px;
+  border-radius:999px;
+  border:1px solid rgba(255,255,255,0.08);
+  background:#121212;
+  color:#9d9d9d;
+  cursor:pointer;
+  transition:0.25s;
+  font-size:0.9rem;
+}
 
-    .footer-links{
-      display:flex;
-      gap:18px;
-      flex-wrap:wrap;
-    }
+.topic-button:hover{
+  color:white;
+  border-color:rgba(255,255,255,0.16);
+}
 
-    .footer-links a:hover{
-      color:white;
-    }
+.topic-button.active{
+  background:white;
+  color:black;
+}
 
-    @media(max-width:768px){
+.archive-grid{
+  display:flex;
+  flex-direction:column;
+  gap:42px;
+}
 
-      .hero h1{
-        font-size:2.8rem;
-      }
+.fragment{
+  border-left:1px solid rgba(255,255,255,0.08);
+  padding-left:28px;
+}
 
-      .fragment-text{
-        font-size:1.2rem;
-      }
+.fragment-text{
+  font-size:1.45rem;
+  line-height:1.5;
+  letter-spacing:-0.5px;
+  margin-bottom:14px;
+}
 
-      .menu{
-        gap:14px;
-        font-size:0.84rem;
-      }
+.fragment-meta{
+  color:#6f6f6f;
+  font-size:0.9rem;
+  text-transform:lowercase;
+}
 
-    }
+.empty-state{
+  color:#666;
+  padding-top:20px;
+}
 
-  </style>
+footer{
+  border-top:1px solid rgba(255,255,255,0.06);
+  margin-top:120px;
+  padding:40px 0;
+  color:#666;
+  font-size:0.92rem;
+  display:flex;
+  justify-content:space-between;
+  flex-wrap:wrap;
+  gap:20px;
+}
+
+.footer-links{
+  display:flex;
+  gap:18px;
+  flex-wrap:wrap;
+}
+
+.footer-links a:hover{
+  color:white;
+}
+
+@media(max-width:768px){
+
+  .hero h1{
+    font-size:2.8rem;
+  }
+
+  .fragment-text{
+    font-size:1.2rem;
+  }
+
+  .menu{
+    gap:14px;
+    font-size:0.84rem;
+  }
+
+}
+
+</style>
 
 </head>
 
@@ -185,39 +237,175 @@
 
 <main>
 
-  <section class="hero">
+<section class="hero">
 
-    <h1>
-      Archive
-    </h1>
+  <h1>
+    Archive
+  </h1>
 
-    <p>
-      A broader collection of operational, organizational and systems thinking fragments accumulated over time.
-    </p>
+  <p>
+    A broader collection of operational, organizational and systems thinking fragments accumulated over time.
+  </p>
 
-  </section>
+</section>
 
-  <section class="archive-grid" id="archive-container">
-  </section>
+<section class="search-container">
 
-  <footer>
+  <input
+    type="text"
+    id="search-input"
+    class="search-input"
+    placeholder="Search fragments..."
+  >
 
-    <div>
-      © 2026 Francisco Cobos · fragments.fcobos.com
-    </div>
+  <div class="topic-filters" id="topic-filters">
+  </div>
 
-    <div class="footer-links">
-      <a href="index.html">Home</a>
-      <a href="legal.html">Legal</a>
-      <a href="https://fcobos.com" target="_blank">fcobos.com</a>
-      <a href="https://fcobos.medium.com" target="_blank">Medium</a>
-    </div>
+</section>
 
-  </footer>
+<section class="archive-grid" id="archive-container">
+</section>
+
+<footer>
+
+  <div>
+    © 2026 Francisco Cobos · fragments.fcobos.com
+  </div>
+
+  <div class="footer-links">
+    <a href="index.html">Home</a>
+    <a href="legal.html">Legal</a>
+    <a href="https://fcobos.com" target="_blank">fcobos.com</a>
+    <a href="https://fcobos.medium.com" target="_blank">Medium</a>
+  </div>
+
+</footer>
 
 </main>
 
 <script>
+
+let allFragments = [];
+let currentTopic = 'all';
+
+const archiveContainer = document.getElementById('archive-container');
+const searchInput = document.getElementById('search-input');
+const topicFilters = document.getElementById('topic-filters');
+
+function renderFragments(fragments) {
+
+  archiveContainer.innerHTML = '';
+
+  if (fragments.length === 0) {
+
+    archiveContainer.innerHTML = `
+      <div class="empty-state">
+        No fragments found.
+      </div>
+    `;
+
+    return;
+  }
+
+  fragments.forEach(fragment => {
+
+    const article = document.createElement('article');
+
+    article.className = 'fragment';
+
+    article.innerHTML = `
+      <div class="fragment-text">
+        ${fragment.text}
+      </div>
+
+      <div class="fragment-meta">
+        ${fragment.year} · ${fragment.topic}
+      </div>
+    `;
+
+    archiveContainer.appendChild(article);
+
+  });
+
+}
+
+function applyFilters() {
+
+  const query = searchInput.value.toLowerCase();
+
+  let filtered = allFragments.filter(fragment => {
+
+    const matchesSearch =
+      fragment.text.toLowerCase().includes(query) ||
+      fragment.topic.toLowerCase().includes(query);
+
+    const matchesTopic =
+      currentTopic === 'all' ||
+      fragment.topic === currentTopic;
+
+    return matchesSearch && matchesTopic;
+
+  });
+
+  renderFragments(filtered);
+
+}
+
+function createTopicFilters(fragments) {
+
+  const topics = [...new Set(fragments.map(f => f.topic))];
+
+  const allButton = document.createElement('button');
+
+  allButton.className = 'topic-button active';
+
+  allButton.textContent = 'all';
+
+  allButton.onclick = () => {
+
+    currentTopic = 'all';
+
+    updateActiveButton(allButton);
+
+    applyFilters();
+
+  };
+
+  topicFilters.appendChild(allButton);
+
+  topics.sort().forEach(topic => {
+
+    const button = document.createElement('button');
+
+    button.className = 'topic-button';
+
+    button.textContent = topic;
+
+    button.onclick = () => {
+
+      currentTopic = topic;
+
+      updateActiveButton(button);
+
+      applyFilters();
+
+    };
+
+    topicFilters.appendChild(button);
+
+  });
+
+}
+
+function updateActiveButton(activeButton) {
+
+  document.querySelectorAll('.topic-button').forEach(button => {
+    button.classList.remove('active');
+  });
+
+  activeButton.classList.add('active');
+
+}
 
 async function loadArchive() {
 
@@ -227,43 +415,27 @@ async function loadArchive() {
 
     const data = await response.json();
 
-    const container = document.getElementById('archive-container');
+    allFragments = data;
 
-    data.forEach(fragment => {
+    createTopicFilters(allFragments);
 
-      const article = document.createElement('article');
-
-      article.className = 'fragment';
-
-      article.innerHTML = `
-        <div class="fragment-text">
-          ${fragment.text}
-        </div>
-
-        <div class="fragment-meta">
-          ${fragment.year} · ${fragment.topic}
-        </div>
-      `;
-
-      container.appendChild(article);
-
-    });
+    renderFragments(allFragments);
 
   } catch(error) {
 
     console.error(error);
 
-    document.getElementById('archive-container').innerHTML = `
-      <article class="fragment">
-        <div class="fragment-text">
-          Error loading archive.
-        </div>
-      </article>
+    archiveContainer.innerHTML = `
+      <div class="empty-state">
+        Error loading archive.
+      </div>
     `;
 
   }
 
 }
+
+searchInput.addEventListener('input', applyFilters);
 
 loadArchive();
 
