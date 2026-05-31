@@ -1,152 +1,82 @@
 [
   {
-    "text": "Operational workarounds are often product failures in disguise.",
-    "topic": "operations",
-    "year": "2026"
+    "text": "Teams move faster when they own the problem, not just the solution.",
+    "topic": "leadership"
   },
   {
-    "text": "Complexity grows naturally. Simplicity requires intention.",
-    "topic": "complexity",
-    "year": "2025"
+    "text": "Activity is visible. Value is what matters.",
+    "topic": "product"
   },
   {
-    "text": "Where transparency is absent, speculation becomes communication.",
-    "topic": "organizations",
-    "year": "2021"
+    "text": "A roadmap should create alignment, not certainty.",
+    "topic": "product"
   },
   {
-    "text": "A KPI can improve while the experience collapses.",
-    "topic": "systems",
-    "year": "2024"
+    "text": "The quality of a decision depends more on information than hierarchy.",
+    "topic": "management"
   },
   {
-    "text": "Most organizational problems survive because they were normalized long ago.",
-    "topic": "organizations",
-    "year": "2025"
+    "text": "Good leaders create autonomy. Great leaders create more leaders.",
+    "topic": "leadership"
   },
   {
-    "text": "Clarity scales better than control.",
-    "topic": "leadership",
-    "year": "2025"
+    "text": "The longer information travels, the slower an organisation becomes.",
+    "topic": "management"
   },
   {
-    "text": "Most delays are caused by dependencies, not by the work itself.",
-    "topic": "operations",
-    "year": "2026"
+    "text": "Technology rarely limits a company. People and incentives do.",
+    "topic": "technology"
   },
   {
-    "text": "Organizations rarely collapse suddenly. They erode gradually through ambiguity and friction.",
-    "topic": "systems",
-    "year": "2025"
+    "text": "Customers don't care about features. They care about outcomes.",
+    "topic": "product"
   },
   {
-    "text": "People usually resist uncertainty more than change itself.",
-    "topic": "behavior",
-    "year": "2024"
+    "text": "The purpose of planning is understanding, not prediction.",
+    "topic": "thinking"
   },
   {
-    "text": "Execution deteriorates when nobody owns the problem end to end.",
-    "topic": "execution",
-    "year": "2026"
+    "text": "Most complexity is created one exception at a time.",
+    "topic": "thinking"
   },
   {
-    "text": "A roadmap without operational reality eventually becomes fiction.",
-    "topic": "product",
-    "year": "2025"
+    "text": "Trust scales better than control.",
+    "topic": "leadership"
   },
   {
-    "text": "Most meetings exist because systems do not communicate clearly enough.",
-    "topic": "organizations",
-    "year": "2024"
+    "text": "A team becomes stronger when knowledge is shared and ownership is distributed.",
+    "topic": "leadership"
   },
   {
-    "text": "Scale amplifies operational weaknesses that already existed.",
-    "topic": "scale",
-    "year": "2025"
+    "text": "Experience is useful when it increases curiosity, not certainty.",
+    "topic": "thinking"
   },
   {
-    "text": "Processes created to reduce chaos often end up institutionalizing it.",
-    "topic": "processes",
-    "year": "2025"
+    "text": "The best process is the one people no longer need to think about.",
+    "topic": "management"
   },
   {
-    "text": "Many companies optimize metrics while slowly destroying trust.",
-    "topic": "organizations",
-    "year": "2024"
+    "text": "Communication succeeds when understanding happens.",
+    "topic": "communication"
   },
   {
-    "text": "Bad communication creates more operational debt than bad technology.",
-    "topic": "communication",
-    "year": "2025"
+    "text": "Most organisational problems appear as technology problems first.",
+    "topic": "management"
   },
   {
-    "text": "People do not burn out only because of workload, but because of prolonged ambiguity.",
-    "topic": "behavior",
-    "year": "2024"
+    "text": "A backlog is not a strategy.",
+    "topic": "product"
   },
   {
-    "text": "Most organizations underestimate the hidden cost of fragmentation.",
-    "topic": "organizations",
-    "year": "2025"
+    "text": "Learning compounds faster than planning.",
+    "topic": "thinking"
   },
   {
-    "text": "A system becomes fragile when only a few people truly understand it.",
-    "topic": "systems",
-    "year": "2025"
+    "text": "The goal is not to deliver software. The goal is to solve a problem.",
+    "topic": "product"
   },
   {
-    "text": "Efficiency without understanding usually creates larger problems later.",
-    "topic": "operations",
-    "year": "2025"
-  },
-  {
-    "text": "The larger the organization, the easier it becomes to confuse movement with progress.",
-    "topic": "organizations",
-    "year": "2024"
-  },
-  {
-    "text": "Culture is often the accumulation of tolerated behaviors.",
-    "topic": "culture",
-    "year": "2025"
-  },
-  {
-    "text": "People align faster around clarity than around motivation.",
-    "topic": "leadership",
-    "year": "2024"
-  },
-  {
-    "text": "Every workaround silently teaches the organization to avoid solving the real problem.",
-    "topic": "operations",
-    "year": "2026"
-  },
-  {
-    "text": "Most operational chaos is predictable long before it becomes visible.",
-    "topic": "operations",
-    "year": "2025"
-  },
-  {
-    "text": "Organizations become slower when every decision requires consensus.",
-    "topic": "organizations",
-    "year": "2024"
-  },
-  {
-    "text": "Many systems appear stable only because nobody is measuring the real friction.",
-    "topic": "systems",
-    "year": "2025"
-  },
-  {
-    "text": "The absence of conflict does not necessarily mean alignment exists.",
-    "topic": "organizations",
-    "year": "2024"
-  },
-  {
-    "text": "Simplicity is rarely accidental in complex environments.",
-    "topic": "complexity",
-    "year": "2025"
-  },
-  {
-    "text": "Leadership becomes dangerous when confidence grows faster than understanding.",
-    "topic": "leadership",
-    "year": "2024"
+    "text": "Empowered people need less management and create more value.",
+    "topic": "leadership"
   }
 ]

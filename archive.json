@@ -1,202 +1,85 @@
 [
-  {
-    "text": "Your product should solve customer problems, not create an Olympic sport out of workarounds.",
-    "topic": "product",
-    "year": "2025"
-  },
-  {
-    "text": "Operational inefficiencies eventually become organizational culture.",
-    "topic": "operations",
-    "year": "2025"
-  },
-  {
-    "text": "Most organizations are optimized for internal comfort, not customer value.",
-    "topic": "organizations",
-    "year": "2024"
-  },
-  {
-    "text": "A manager should keep teams focused, not merely occupied.",
-    "topic": "leadership",
-    "year": "2023"
-  },
-  {
-    "text": "People often propose solutions before understanding the problem.",
-    "topic": "thinking",
-    "year": "2022"
-  },
-  {
-    "text": "Interruptions are usually a symptom of poor organization.",
-    "topic": "productivity",
-    "year": "2021"
-  },
-  {
-    "text": "Complexity grows naturally. Simplicity requires intention.",
-    "topic": "complexity",
-    "year": "2025"
-  },
-  {
-    "text": "Organizations rarely collapse suddenly. They erode gradually.",
-    "topic": "systems",
-    "year": "2024"
-  },
-  {
-    "text": "Most meetings exist because clarity does not.",
-    "topic": "communication",
-    "year": "2023"
-  },
-  {
-    "text": "A process that only works with exceptional people is usually a bad process.",
-    "topic": "process",
-    "year": "2025"
-  },
-  {
-    "text": "Productivity without effectiveness is just efficient waste.",
-    "topic": "productivity",
-    "year": "2024"
-  },
-  {
-    "text": "Culture becomes visible under pressure.",
-    "topic": "culture",
-    "year": "2022"
-  },
-  {
-    "text": "People trust consistency more than speeches.",
-    "topic": "leadership",
-    "year": "2023"
-  },
-  {
-    "text": "Bad communication creates operational debt.",
-    "topic": "communication",
-    "year": "2025"
-  },
-  {
-    "text": "When nobody owns the problem end to end, execution deteriorates.",
-    "topic": "execution",
-    "year": "2024"
-  },
-  {
-    "text": "Many organizations measure movement instead of value.",
-    "topic": "systems",
-    "year": "2025"
-  },
-  {
-    "text": "The further decisions are from reality, the weaker the organization becomes.",
-    "topic": "organizations",
-    "year": "2024"
-  },
-  {
-    "text": "Most friction survives because it became normalized.",
-    "topic": "operations",
-    "year": "2023"
-  },
-  {
-    "text": "Scaling exposes weaknesses that already existed.",
-    "topic": "systems",
-    "year": "2025"
-  },
-  {
-    "text": "A roadmap disconnected from operations eventually becomes fiction.",
-    "topic": "product",
-    "year": "2025"
-  },
-  {
-    "text": "Trust deteriorates long before performance does.",
-    "topic": "culture",
-    "year": "2024"
-  },
-  {
-    "text": "Organizations communicate poorly when systems communicate poorly.",
-    "topic": "systems",
-    "year": "2023"
-  },
-  {
-    "text": "Ambiguity spreads faster than accountability.",
-    "topic": "organizations",
-    "year": "2025"
-  },
-  {
-    "text": "A company can scale revenue while internally collapsing.",
-    "topic": "business",
-    "year": "2025"
-  },
-  {
-    "text": "Processes become dangerous when nobody questions them.",
-    "topic": "process",
-    "year": "2024"
-  },
-  {
-    "text": "Leadership without self-awareness eventually becomes ego management.",
-    "topic": "leadership",
-    "year": "2023"
-  },
-  {
-    "text": "Every workaround teaches the organization to avoid the real problem.",
-    "topic": "operations",
-    "year": "2025"
-  },
-  {
-    "text": "Most strategic failures begin operationally.",
-    "topic": "strategy",
-    "year": "2024"
-  },
-  {
-    "text": "People resist uncertainty more than change itself.",
-    "topic": "behavior",
-    "year": "2022"
-  },
-  {
-    "text": "Simplicity requires deeper understanding than complexity.",
-    "topic": "thinking",
-    "year": "2025"
-  },
-  {
-    "text": "Execution suffers when incentives diverge from reality.",
-    "topic": "execution",
-    "year": "2025"
-  },
-  {
-    "text": "Visibility is not the same as understanding.",
-    "topic": "systems",
-    "year": "2023"
-  },
-  {
-    "text": "Most organizations are aligned only in their misalignment.",
-    "topic": "organizations",
-    "year": "2022"
-  },
-  {
-    "text": "Technology amplifies both competence and dysfunction.",
-    "topic": "technology",
-    "year": "2024"
-  },
-  {
-    "text": "Operational maturity is invisible until a crisis appears.",
-    "topic": "operations",
-    "year": "2025"
-  },
-  {
-    "text": "Control increases as trust disappears.",
-    "topic": "leadership",
-    "year": "2023"
-  },
-  {
-    "text": "People usually discover culture through consequences.",
-    "topic": "culture",
-    "year": "2024"
-  },
-  {
-    "text": "Organizations drift when priorities constantly change.",
-    "topic": "strategy",
-    "year": "2025"
-  },
-  {
-    "text": "Teams burn out faster under ambiguity than pressure.",
-    "topic": "teams",
-    "year": "2024"
-  },
-  {
-    "text": "A KPI can improve while the experience collapses.",
-    "topic": "systems",
-    "year": "2025"
-  }
+  {"text":"Alignment is cheaper than coordination.","topic":"management"},
+  {"text":"Most deadlines are guesses disguised as commitments.","topic":"product"},
+  {"text":"Ownership without authority creates frustration.","topic":"leadership"},
+  {"text":"Knowledge trapped inside one person is organisational debt.","topic":"leadership"},
+  {"text":"People rarely need more information. They need more clarity.","topic":"communication"},
+  {"text":"The larger the organisation, the more important context becomes.","topic":"management"},
+  {"text":"A feature request is often a poorly expressed problem.","topic":"product"},
+  {"text":"Good architecture reduces future decisions.","topic":"technology"},
+  {"text":"Most organisations reward certainty when learning would be more valuable.","topic":"management"},
+  {"text":"The easiest way to lose trust is to make promises you cannot measure.","topic":"leadership"},
+  {"text":"Customers experience outcomes, not internal effort.","topic":"product"},
+  {"text":"The best way to understand a system is to observe where information stops flowing.","topic":"thinking"},
+  {"text":"Most teams do not need more tools. They need fewer priorities.","topic":"management"},
+  {"text":"A roadmap should survive change without losing direction.","topic":"product"},
+  {"text":"If nobody can explain why a metric matters, it probably doesn't.","topic":"thinking"},
+  {"text":"Complexity grows naturally. Simplicity requires intention.","topic":"thinking"},
+  {"text":"Control scales poorly. Trust scales surprisingly well.","topic":"leadership"},
+  {"text":"The cost of a decision increases when the people affected are not involved.","topic":"management"},
+  {"text":"Every process solves a problem. Most survive long after the problem disappears.","topic":"management"},
+  {"text":"A meeting is expensive. Confusion is usually more expensive.","topic":"communication"},
+  {"text":"People commit more strongly to decisions they help shape.","topic":"leadership"},
+  {"text":"The best plans leave room for learning.","topic":"thinking"},
+  {"text":"Shared understanding reduces the need for supervision.","topic":"leadership"},
+  {"text":"The quality of feedback determines the speed of improvement.","topic":"leadership"},
+  {"text":"Most bottlenecks are organisational before they are technical.","topic":"technology"},
+  {"text":"When priorities compete, progress slows everywhere.","topic":"management"},
+  {"text":"A system reveals its values through its incentives.","topic":"thinking"},
+  {"text":"The more assumptions remain hidden, the more surprises appear later.","topic":"thinking"},
+  {"text":"People support what they understand.","topic":"communication"},
+  {"text":"Good leaders create clarity before they create plans.","topic":"leadership"},
+  {"text":"A process should help people think, not replace thinking.","topic":"management"},
+  {"text":"The shortest path is not always the fastest path.","topic":"thinking"},
+  {"text":"Progress becomes visible when priorities become scarce.","topic":"management"},
+  {"text":"Most disagreements begin as differences in context.","topic":"communication"},
+  {"text":"Technology amplifies behaviour more often than it changes it.","topic":"technology"},
+  {"text":"A strong culture reduces the need for rules.","topic":"leadership"},
+  {"text":"Learning is easier when mistakes are visible and safe to discuss.","topic":"leadership"},
+  {"text":"The first version teaches more than the tenth discussion.","topic":"product"},
+  {"text":"Every organisation is perfectly designed to produce its current results.","topic":"management"},
+  {"text":"People remember experiences more than explanations.","topic":"communication"},
+  {"text":"Efficiency without direction accelerates the wrong outcomes.","topic":"product"},
+  {"text":"The best decisions are made closest to the information.","topic":"management"},
+  {"text":"The purpose of metrics is learning, not reporting.","topic":"product"},
+  {"text":"Trust is built through consistency, not intention.","topic":"leadership"},
+  {"text":"Most friction comes from unclear ownership.","topic":"management"},
+  {"text":"The more a team depends on heroes, the weaker the system becomes.","topic":"leadership"},
+  {"text":"Small improvements compound faster than large transformations.","topic":"thinking"},
+  {"text":"People don't need motivation every day. They need meaning.","topic":"leadership"},
+  {"text":"Communication fails gradually before it fails visibly.","topic":"communication"},
+  {"text":"The value of knowledge increases when it is shared.","topic":"leadership"},
+  {"text":"The best strategy survives contact with reality.","topic":"product"},
+  {"text":"Every shortcut creates a future decision.","topic":"technology"},
+  {"text":"Clarity creates momentum.","topic":"communication"},
+  {"text":"The more layers between people and decisions, the slower learning becomes.","topic":"management"},
+  {"text":"Most organisational complexity starts as a reasonable exception.","topic":"thinking"},
+  {"text":"People care more about being heard than being agreed with.","topic":"communication"},
+  {"text":"Good systems reduce dependence on individual memory.","topic":"technology"},
+  {"text":"A vision creates direction. Priorities create movement.","topic":"product"},
+  {"text":"The fastest way to improve is to expose reality sooner.","topic":"thinking"},
+  {"text":"Context travels slower than instructions.","topic":"management"},
+  {"text":"The hardest conversations are often the most valuable ones.","topic":"leadership"},
+  {"text":"The quality of a team is reflected in the quality of its conversations.","topic":"leadership"},
+  {"text":"Most risks grow in silence before they appear in reports.","topic":"management"},
+  {"text":"Consistency builds credibility.","topic":"leadership"},
+  {"text":"The best organisations learn faster than their environment changes.","topic":"management"},
+  {"text":"People trust actions more than intentions.","topic":"leadership"},
+  {"text":"Good communication reduces future work.","topic":"communication"},
+  {"text":"A problem ignored becomes a process.","topic":"management"},
+  {"text":"When everyone is responsible, nobody is responsible.","topic":"management"},
+  {"text":"Curiosity is often more valuable than expertise.","topic":"thinking"},
+  {"text":"A useful decision today is usually better than a perfect decision tomorrow.","topic":"thinking"},
+  {"text":"The goal of leadership is capability, not dependency.","topic":"leadership"},
+  {"text":"The best teams optimise for learning before optimisation.","topic":"product"},
+  {"text":"Information loses value as it travels.","topic":"communication"},
+  {"text":"People need direction more often than control.","topic":"leadership"},
+  {"text":"Most problems become easier when ownership becomes explicit.","topic":"management"},
+  {"text":"Clarity scales. Ambiguity accumulates.","topic":"communication"},
+  {"text":"Every organisation teaches people how to behave.","topic":"management"},
+  {"text":"The best improvements often remove something.","topic":"thinking"},
+  {"text": "Ability occurs as a result of a good routine transformed into habit.",
+  "topic": "thinking"},
+  {"text": "Efficiency is useless when applied to the wrong objective.",
+  "topic": "thinking"}
 ]
