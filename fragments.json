@@ -1,5 +1,17 @@
 [
   {
+    "text": "The most dangerous thing about a toxic culture isn't living through it. It's accepting it as normal.",
+    "topic": "management"
+  },
+  {
+    "text": "Nadie puede hablar de mis callos si nunca ha llevado mis zapatos.",
+    "topic": "Life"
+  },
+  {
+    "text": "Freedom is never given. It's won.",
+    "topic": "Life"
+  },
+  {
     "text": "Teams move faster when they own the problem, not just the solution.",
     "topic": "leadership"
   },
@@ -69,6 +81,10 @@
   },
   {
     "text": "The purpose of a roadmap is alignment, not prediction.",
+    "topic": "leadership"
+  },
+  {
+    "text": "People rarely need more information. They need more clarity.",
     "topic": "leadership"
   }
 ]
